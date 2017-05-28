@@ -2,8 +2,8 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 31887,
-		"common": 103
+		"ips": 32003,
+		"common": 104
 	},
 	{
 		"name": "atlas_attacks",
@@ -27,6 +27,12 @@
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
 		"ips": 29,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_30d",
+		"category": "attacks",
+		"ips": 99,
 		"common": 1
 	},
 	{
@@ -86,13 +92,13 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 952,
+		"ips": 951,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1212,
+		"ips": 1203,
 		"common": 1
 	},
 	{
@@ -110,32 +116,32 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5948,
+		"ips": 5748,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7771,
+		"ips": 7772,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23684,
+		"ips": 23691,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12652,
+		"ips": 12655,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36529,
-		"common": 9055
+		"ips": 36637,
+		"common": 9059
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -146,26 +152,26 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 540,
-		"common": 540
+		"ips": 542,
+		"common": 542
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17672,
+		"ips": 17695,
 		"common": 8244
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 153,
 		"common": 14
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 10184,
-		"common": 225
+		"common": 227
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -231,7 +237,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 16137,
-		"common": 98
+		"common": 99
 	},
 	{
 		"name": "cleantalk",
@@ -345,7 +351,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 440,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -536,20 +542,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46981,
-		"common": 9055
+		"ips": 47089,
+		"common": 9059
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132888,
-		"common": 131
+		"common": 132
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587034,
-		"common": 285
+		"ips": 9587040,
+		"common": 287
 	},
 	{
 		"name": "firehol_proxies",
@@ -567,7 +573,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738614,
-		"common": 4245
+		"common": 4248
 	},
 	{
 		"name": "gofferje_sip",
@@ -591,12 +597,12 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2087,
-		"common": 111
+		"common": 113
 	},
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20336,
+		"ips": 20344,
 		"common": 13
 	},
 	{
@@ -645,7 +651,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 15831,
-		"common": 92
+		"common": 93
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -699,13 +705,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690517,
-		"common": 1319
+		"common": 1321
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 566
+		"common": 567
 	},
 	{
 		"name": "iblocklist_level3",
@@ -818,7 +824,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8668,
+		"ips": 8688,
 		"common": 1
 	},
 	{
@@ -957,7 +963,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 4225
+		"common": 4228
 	},
 	{
 		"name": "ransomware_feed",
@@ -1173,7 +1179,7 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 281,
-		"common": 11
+		"common": 13
 	},
 	{
 		"name": "urandomusto_http",
@@ -1221,7 +1227,7 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27257,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "vxvault",
