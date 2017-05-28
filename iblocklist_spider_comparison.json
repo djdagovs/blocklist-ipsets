@@ -332,7 +332,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36795,
+		"ips": 36796,
 		"common": 8
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23623,
+		"ips": 23624,
 		"common": 7
 	},
 	{
@@ -798,9 +798,15 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1601,
+		"ips": 1602,
 		"common": 1
 	},
 	{
@@ -910,6 +916,12 @@
 		"category": "reputation",
 		"ips": 39574,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 356,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
