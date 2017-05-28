@@ -32,7 +32,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 341,
+		"ips": 342,
 		"common": 2
 	},
 	{
@@ -146,8 +146,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36637,
-		"common": 1151
+		"ips": 36600,
+		"common": 1140
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15774,
+		"ips": 15786,
 		"common": 81
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10185,
+		"ips": 10157,
 		"common": 1136
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20044,
-		"common": 461
+		"ips": 20049,
+		"common": 462
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -776,20 +776,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 37032,
-		"common": 8225
+		"ips": 37031,
+		"common": 8226
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654558379,
-		"common": 9970
+		"ips": 654546584,
+		"common": 9948
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47071,
-		"common": 1228
+		"ips": 46784,
+		"common": 1218
 	},
 	{
 		"name": "firehol_level3",
@@ -800,14 +800,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587054,
+		"ips": 9587028,
 		"common": 15873
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23878,
-		"common": 7460
+		"ips": 23877,
+		"common": 7461
 	},
 	{
 		"name": "firehol_webclient",
@@ -1250,8 +1250,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8699,
-		"common": 203
+		"ips": 8557,
+		"common": 198
 	},
 	{
 		"name": "nt_malware_http",
@@ -1449,25 +1449,25 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 300,
-		"common": 197
+		"common": 189
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1202,
-		"common": 726
+		"ips": 1194,
+		"common": 720
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6873,
+		"ips": 6871,
 		"common": 3094
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3065,
-		"common": 1646
+		"ips": 3062,
+		"common": 1644
 	},
 	{
 		"name": "proxz",
@@ -1516,18 +1516,6 @@
 		"category": "malware",
 		"ips": 163,
 		"common": 1
-	},
-	{
-		"name": "ransomware_rw",
-		"category": "malware",
-		"ips": 11807,
-		"common": 22
-	},
-	{
-		"name": "ransomware_teslacrypt_ps",
-		"category": "malware",
-		"ips": 10998,
-		"common": 18
 	},
 	{
 		"name": "ransomware_torrentlocker_ps",
