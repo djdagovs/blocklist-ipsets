@@ -38,26 +38,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36309,
-		"common": 344
+		"ips": 36276,
+		"common": 347
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8829,
-		"common": 344
+		"common": 347
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 148,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9703,
-		"common": 163
+		"ips": 9704,
+		"common": 165
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -117,13 +117,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 63982,
-		"common": 76
+		"common": 77
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 37077,
-		"common": 72
+		"common": 73
 	},
 	{
 		"name": "cleantalk_new",
@@ -141,13 +141,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 19365,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 5063,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "cleantalk_updated",
@@ -206,7 +206,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311141,
+		"ips": 311140,
 		"common": 1
 	},
 	{
@@ -243,12 +243,12 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 229562,
-		"common": 100
+		"common": 101
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36875,
+		"ips": 36867,
 		"common": 2
 	},
 	{
@@ -260,8 +260,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44945,
-		"common": 344
+		"ips": 44913,
+		"common": 347
 	},
 	{
 		"name": "firehol_level3",
@@ -272,13 +272,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586562,
-		"common": 185
+		"ips": 9586563,
+		"common": 187
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23659,
+		"ips": 23651,
 		"common": 2
 	},
 	{
@@ -303,7 +303,7 @@
 		"name": "gpf_comics",
 		"category": "abuse",
 		"ips": 3589,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "greensnow",
@@ -345,7 +345,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -375,7 +375,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "iblocklist_level3",
@@ -512,19 +512,19 @@
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1119,
+		"ips": 1112,
 		"common": 1
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6898,
+		"ips": 6894,
 		"common": 1
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3091,
+		"ips": 3078,
 		"common": 1
 	},
 	{
@@ -674,7 +674,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 20716,
+		"ips": 19923,
 		"common": 1
 	},
 	{
@@ -693,7 +693,13 @@
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 351,
-		"common": 26
+		"common": 27
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 383,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
