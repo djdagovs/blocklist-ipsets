@@ -104,25 +104,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36237,
+		"ips": 36177,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2815,
+		"ips": 2788,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16676,
+		"ips": 16661,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16294,
+		"ips": 16262,
 		"common": 3
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15515,
+		"ips": 15520,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4790,
+		"ips": 4793,
 		"common": 1
 	},
 	{
@@ -362,13 +362,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28954,
+		"ips": 28963,
 		"common": 21
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 229620,
+		"ips": 229623,
 		"common": 122
 	},
 	{
@@ -386,8 +386,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44435,
-		"common": 10
+		"ips": 44663,
+		"common": 11
 	},
 	{
 		"name": "firehol_level3",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586451,
+		"ips": 9586456,
 		"common": 4162
 	},
 	{
@@ -430,6 +430,12 @@
 		"category": "abuse",
 		"ips": 330527,
 		"common": 7
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2094,
+		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -698,7 +704,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29103,
+		"ips": 29246,
 		"common": 2
 	},
 	{
@@ -720,15 +726,51 @@
 		"common": 1
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 91,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1069,
+		"ips": 1074,
 		"common": 1
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 297,
+		"ips": 332,
+		"common": 1
+	},
+	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 94,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_30d",
+		"category": "spam",
+		"ips": 1126,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_7d",
+		"category": "spam",
+		"ips": 357,
 		"common": 1
 	},
 	{
