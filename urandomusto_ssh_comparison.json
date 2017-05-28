@@ -50,19 +50,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36274,
-		"common": 283
+		"ips": 36273,
+		"common": 284
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8825,
+		"ips": 8818,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 326,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16198,
+		"ips": 16224,
 		"common": 281
 	},
 	{
@@ -206,7 +212,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311204,
+		"ips": 311202,
 		"common": 2
 	},
 	{
@@ -297,7 +303,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 44946,
-		"common": 286
+		"common": 287
 	},
 	{
 		"name": "firehol_level3",
