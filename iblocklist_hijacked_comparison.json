@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36605,
-		"common": 45
+		"ips": 36529,
+		"common": 44
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -128,8 +128,8 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17712,
-		"common": 17
+		"ips": 17672,
+		"common": 16
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15748,
+		"ips": 15700,
 		"common": 25
 	},
 	{
@@ -494,20 +494,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 37000,
+		"ips": 37001,
 		"common": 6
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654546583,
-		"common": 5962752
+		"ips": 654558379,
+		"common": 5962753
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47059,
-		"common": 45
+		"ips": 46981,
+		"common": 44
 	},
 	{
 		"name": "firehol_level3",
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23891,
+		"ips": 23892,
 		"common": 3
 	},
 	{
@@ -764,8 +764,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8638,
-		"common": 8
+		"ips": 8668,
+		"common": 9
 	},
 	{
 		"name": "nt_malware_http",
@@ -820,6 +820,18 @@
 		"category": "malware",
 		"ips": 4896,
 		"common": 2
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 11807,
+		"common": 1
+	},
+	{
+		"name": "ransomware_teslacrypt_ps",
+		"category": "malware",
+		"ips": 10998,
+		"common": 1
 	},
 	{
 		"name": "sblam",
@@ -890,7 +902,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3249,
+		"ips": 3250,
 		"common": 1
 	},
 	{

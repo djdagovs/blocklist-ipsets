@@ -14,19 +14,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36605,
+		"ips": 36529,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9059,
+		"ips": 9055,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17712,
+		"ips": 17672,
 		"common": 1
 	},
 	{
@@ -248,19 +248,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 37000,
+		"ips": 37001,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654546583,
-		"common": 5
+		"ips": 654558379,
+		"common": 98
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 47059,
+		"ips": 46981,
 		"common": 1
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23891,
+		"ips": 23892,
 		"common": 1
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6416,
+		"ips": 6413,
 		"common": 1
 	},
 	{
@@ -430,6 +430,18 @@
 		"category": "anonymizers",
 		"ips": 5138,
 		"common": 1
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 11807,
+		"common": 93
+	},
+	{
+		"name": "ransomware_teslacrypt_ps",
+		"category": "malware",
+		"ips": 10998,
+		"common": 93
 	},
 	{
 		"name": "sorbs_anonymizers",
