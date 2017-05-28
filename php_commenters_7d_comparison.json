@@ -56,19 +56,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5894,
+		"ips": 5908,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7740,
+		"ips": 7739,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23811,
+		"ips": 23810,
 		"common": 1
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9554,
+		"ips": 9552,
 		"common": 23
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 624,
+		"ips": 622,
 		"common": 14
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311278,
+		"ips": 311286,
 		"common": 2
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28680,
+		"ips": 28726,
 		"common": 176
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586438,
+		"ips": 9586435,
 		"common": 162
 	},
 	{
@@ -572,8 +572,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27705,
-		"common": 30
+		"ips": 27592,
+		"common": 29
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -692,13 +692,13 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1618,
+		"ips": 1631,
 		"common": 19
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2716,
+		"ips": 2731,
 		"common": 27
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4167,
+		"ips": 4168,
 		"common": 31
 	},
 	{
@@ -950,7 +950,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6225,
+		"ips": 6312,
 		"common": 122
 	},
 	{
@@ -1032,16 +1032,16 @@
 		"common": 26
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 436,
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 406,
 		"common": 1
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 407,
-		"common": 1
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 437,
+		"common": 3
 	},
 	{
 		"name": "xroxy",
