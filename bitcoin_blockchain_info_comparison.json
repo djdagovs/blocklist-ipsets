@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36928,
+		"ips": 36924,
 		"common": 19
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 46281,
+		"ips": 46291,
 		"common": 2
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586653,
+		"ips": 9586630,
 		"common": 4
 	},
 	{
@@ -423,6 +423,30 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
+		"common": 1
+	},
+	{
+		"name": "tor_exits",
+		"category": "anonymizers",
+		"ips": 931,
+		"common": 1
+	},
+	{
+		"name": "tor_exits_1d",
+		"category": "anonymizers",
+		"ips": 978,
+		"common": 1
+	},
+	{
+		"name": "tor_exits_30d",
+		"category": "anonymizers",
+		"ips": 2147,
+		"common": 1
+	},
+	{
+		"name": "tor_exits_7d",
+		"category": "anonymizers",
+		"ips": 1271,
 		"common": 1
 	},
 	{
