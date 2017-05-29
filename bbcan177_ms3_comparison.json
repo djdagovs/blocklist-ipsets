@@ -68,43 +68,43 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 931,
+		"ips": 930,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7122,
+		"ips": 7121,
 		"common": 33
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 4289,
+		"ips": 4284,
 		"common": 23
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5875,
+		"ips": 5843,
 		"common": 33
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7294,
+		"ips": 7293,
 		"common": 41
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23898,
+		"ips": 23903,
 		"common": 89
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12679,
+		"ips": 12684,
 		"common": 59
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9382,
+		"ips": 9389,
 		"common": 19
 	},
 	{
@@ -626,13 +626,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133211,
+		"ips": 133329,
 		"common": 597
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586464,
+		"ips": 9586472,
 		"common": 698
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738618,
+		"ips": 34738643,
 		"common": 419
 	},
 	{
@@ -704,7 +704,7 @@
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 28131,
+		"ips": 28161,
 		"common": 22
 	},
 	{
@@ -1382,32 +1382,38 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 243,
+		"ips": 223,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 279,
+		"ips": 249,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 143,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 173,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 150,
-		"common": 2
+		"ips": 190,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 443,
-		"common": 6
+		"common": 8
 	},
 	{
 		"name": "voipbl",
