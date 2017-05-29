@@ -68,37 +68,37 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8831,
+		"ips": 8830,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 270,
+		"ips": 268,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 347,
+		"ips": 344,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 331,
+		"ips": 329,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3289,
+		"ips": 3277,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17078,
+		"ips": 17025,
 		"common": 26
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15790,
+		"ips": 15700,
 		"common": 115
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 487,
+		"ips": 489,
 		"common": 12
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 613,
+		"ips": 612,
 		"common": 9
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29009,
+		"ips": 29095,
 		"common": 52
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36590,
+		"ips": 36591,
 		"common": 52
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23390,
+		"ips": 23391,
 		"common": 46
 	},
 	{
@@ -882,15 +882,21 @@
 		"common": 25
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1438,
+		"ips": 1437,
 		"common": 13
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9363,
+		"ips": 9364,
 		"common": 17
 	},
 	{
@@ -962,7 +968,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4005,
+		"ips": 4130,
 		"common": 26
 	},
 	{
