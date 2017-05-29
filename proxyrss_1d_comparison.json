@@ -44,19 +44,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35834,
+		"ips": 35696,
 		"common": 68
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 274,
+		"ips": 272,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17087,
+		"ips": 17031,
 		"common": 55
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327058,
+		"ips": 327059,
 		"common": 704
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738643,
-		"common": 220
+		"ips": 34738628,
+		"common": 221
 	},
 	{
 		"name": "gofferje_sip",
@@ -338,8 +338,14 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3589,
+		"ips": 3582,
 		"common": 3
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 25582,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -482,8 +488,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31192,
-		"common": 55
+		"ips": 31072,
+		"common": 52
 	},
 	{
 		"name": "nullsecure",
@@ -866,8 +872,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 204,
+		"ips": 193,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 238,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 157,
+		"common": 9
 	},
 	{
 		"name": "xroxy",
