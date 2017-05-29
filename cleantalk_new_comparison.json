@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9667,
+		"ips": 9647,
 		"common": 7
 	},
 	{
@@ -104,26 +104,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 18,
-		"common": 3
+		"ips": 20,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1074,
-		"common": 39
+		"ips": 1072,
+		"common": 40
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15583,
-		"common": 39
+		"ips": 15571,
+		"common": 40
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4811,
-		"common": 39
+		"ips": 4808,
+		"common": 40
 	},
 	{
 		"name": "cleantalk",
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35843,
+		"ips": 35841,
 		"common": 446
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44235,
+		"ips": 44256,
 		"common": 21
 	},
 	{
@@ -302,8 +302,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586809,
-		"common": 45
+		"ips": 9586777,
+		"common": 46
 	},
 	{
 		"name": "firehol_proxies",
@@ -428,7 +428,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28562,
+		"ips": 28467,
 		"common": 8
 	},
 	{
@@ -436,6 +436,12 @@
 		"category": "reputation",
 		"ips": 3946,
 		"common": 4
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2600,
+		"common": 1
 	},
 	{
 		"name": "php_commenters",
