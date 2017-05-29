@@ -170,13 +170,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22873,
+		"ips": 22875,
 		"common": 11
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20168,
+		"ips": 20173,
 		"common": 10
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654557636,
+		"ips": 654557635,
 		"common": 74
 	},
 	{
@@ -578,13 +578,19 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 424,
+		"ips": 422,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 170,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 450,
 		"common": 1
 	},
 	{

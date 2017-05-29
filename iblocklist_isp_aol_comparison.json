@@ -12,6 +12,12 @@
 		"common": 2
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 364,
+		"common": 1
+	},
+	{
 		"name": "bambenek_necurs",
 		"category": "malware",
 		"ips": 19,
@@ -242,8 +248,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36627,
+		"ips": 36629,
 		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 654557635,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
@@ -514,6 +526,12 @@
 		"category": "reputation",
 		"ips": 46271,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 422,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
