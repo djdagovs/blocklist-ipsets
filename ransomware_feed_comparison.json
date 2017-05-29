@@ -32,8 +32,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 102,
-		"common": 10
+		"ips": 108,
+		"common": 11
 	},
 	{
 		"name": "bambenek_c2",
@@ -62,7 +62,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 122,
+		"ips": 118,
 		"common": 15
 	},
 	{
@@ -324,10 +324,28 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 8704,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29952,
 		"common": 4
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 16640,
+		"common": 1
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -374,14 +392,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654557630,
+		"ips": 654557374,
 		"common": 304
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44581,
-		"common": 38
+		"ips": 45854,
+		"common": 39
 	},
 	{
 		"name": "firehol_level3",
@@ -916,12 +934,6 @@
 		"category": "attacks",
 		"ips": 204,
 		"common": 1
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 244,
-		"common": 2
 	},
 	{
 		"name": "urlvir",

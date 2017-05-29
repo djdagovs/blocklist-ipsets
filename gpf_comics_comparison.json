@@ -372,6 +372,18 @@
 		"common": 30
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 8704,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29952,
@@ -380,8 +392,8 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 16384,
-		"common": 1
+		"ips": 16640,
+		"common": 2
 	},
 	{
 		"name": "dshield_top_1000",
@@ -440,20 +452,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36339,
+		"ips": 36334,
 		"common": 9
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654557630,
+		"ips": 654557374,
 		"common": 46
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44581,
-		"common": 72
+		"ips": 45854,
+		"common": 73
 	},
 	{
 		"name": "firehol_level3",
@@ -470,7 +482,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23200,
+		"ips": 23195,
 		"common": 8
 	},
 	{
@@ -1122,10 +1134,10 @@
 		"common": 2
 	},
 	{
-		"name": "urandomusto_http",
+		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 244,
-		"common": 2
+		"ips": 136,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
