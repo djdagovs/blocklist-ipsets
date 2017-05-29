@@ -21,7 +21,7 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "bds_atif",
@@ -38,49 +38,49 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 983,
-		"common": 941
+		"ips": 979,
+		"common": 939
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7245,
-		"common": 4234
+		"ips": 7240,
+		"common": 4283
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 4342,
-		"common": 3291
+		"common": 3319
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7668,
-		"common": 5734
+		"ips": 7659,
+		"common": 5793
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23809,
-		"common": 5734
+		"ips": 23808,
+		"common": 5793
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12637,
-		"common": 5734
+		"ips": 12628,
+		"common": 5793
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36165,
+		"ips": 36035,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8822,
+		"ips": 8824,
 		"common": 2
 	},
 	{
@@ -92,13 +92,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16639,
+		"ips": 16611,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 16258,
+		"ips": 16163,
 		"common": 1
 	},
 	{
@@ -362,20 +362,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654557632,
+		"ips": 654557636,
 		"common": 12
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44654,
+		"ips": 44527,
 		"common": 9
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 133921,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "firehol_level4",
@@ -392,14 +392,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27676,
+		"ips": 27677,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738564,
-		"common": 1322
+		"common": 1342
 	},
 	{
 		"name": "fullbogons",
@@ -453,7 +453,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 182
+		"common": 181
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -477,7 +477,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 164
+		"common": 181
 	},
 	{
 		"name": "iblocklist_fornonlancomputers",
@@ -549,7 +549,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 64
+		"common": 66
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -561,19 +561,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690517,
-		"common": 284
+		"common": 281
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 496
+		"common": 491
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 352
+		"common": 351
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -687,7 +687,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1298
+		"common": 1318
 	},
 	{
 		"name": "sblam",
@@ -699,7 +699,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 20615,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -711,7 +711,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 873
+		"common": 871
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -723,7 +723,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 84
+		"common": 83
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -771,7 +771,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 541170,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -795,7 +795,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 20610,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "threatcrowd",
@@ -842,7 +842,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 171,
+		"ips": 169,
 		"common": 1
 	},
 	{
