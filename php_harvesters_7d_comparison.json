@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 36052,
+		"ips": 36148,
 		"common": 4
 	},
 	{
@@ -56,13 +56,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16625,
+		"ips": 16649,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9536,
+		"ips": 9530,
 		"common": 5
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6927,
+		"ips": 6893,
 		"common": 9
 	},
 	{
@@ -84,27 +84,21 @@
 		"common": 1
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 50,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1053,
+		"ips": 1020,
 		"common": 6
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15520,
+		"ips": 15502,
 		"common": 18
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4793,
+		"ips": 4775,
 		"common": 15
 	},
 	{
@@ -218,7 +212,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 125011,
+		"ips": 125014,
 		"common": 4
 	},
 	{
@@ -254,43 +248,43 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 27090,
+		"ips": 27089,
 		"common": 56
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 229846,
+		"ips": 229851,
 		"common": 189
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36726,
+		"ips": 36606,
 		"common": 12
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654557609,
+		"ips": 654557632,
 		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44544,
+		"ips": 44634,
 		"common": 4
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133921,
+		"ips": 133922,
 		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586494,
+		"ips": 9586474,
 		"common": 19
 	},
 	{
@@ -302,7 +296,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27677,
+		"ips": 27676,
 		"common": 9
 	},
 	{
@@ -474,16 +468,28 @@
 		"common": 1
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 998,
+		"ips": 1015,
 		"common": 11
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 302,
-		"common": 1
+		"ips": 345,
+		"common": 2
 	},
 	{
 		"name": "php_dictionary_30d",
@@ -746,7 +752,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 20615,
+		"ips": 20610,
 		"common": 9
 	},
 	{
