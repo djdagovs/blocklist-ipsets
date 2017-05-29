@@ -1094,7 +1094,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4896,
+		"ips": 4897,
 		"common": 60
 	},
 	{
@@ -1364,14 +1364,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 275,
+		"ips": 243,
 		"common": 18
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 288,
-		"common": 14
+		"ips": 279,
+		"common": 19
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 145,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1382,8 +1388,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 149,
-		"common": 10
+		"ips": 150,
+		"common": 6
 	},
 	{
 		"name": "urlvir",

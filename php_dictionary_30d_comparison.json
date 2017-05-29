@@ -722,7 +722,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4896,
+		"ips": 4897,
 		"common": 1
 	},
 	{
@@ -974,14 +974,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 275,
+		"ips": 243,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 279,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 157,
-		"common": 6
+		"ips": 145,
+		"common": 3
 	},
 	{
 		"name": "xroxy",
