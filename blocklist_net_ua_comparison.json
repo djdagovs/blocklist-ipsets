@@ -86,43 +86,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35465,
-		"common": 661
+		"ips": 35552,
+		"common": 660
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8844,
+		"ips": 8846,
 		"common": 164
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 274,
 		"common": 59
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 335,
+		"ips": 337,
 		"common": 163
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 322,
+		"ips": 321,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3540,
+		"ips": 3548,
 		"common": 28
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16868,
+		"ips": 16894,
 		"common": 148
 	},
 	{
@@ -134,8 +134,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15454,
-		"common": 266
+		"ips": 15514,
+		"common": 265
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -159,25 +159,25 @@
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 7953,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 31222,
-		"common": 239
+		"common": 238
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 13872,
-		"common": 104
+		"common": 103
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 194
+		"common": 193
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
@@ -351,7 +351,7 @@
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 19824,
-		"common": 229
+		"common": 230
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44591,
-		"common": 856
+		"ips": 44678,
+		"common": 855
 	},
 	{
 		"name": "firehol_level3",
@@ -518,8 +518,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586747,
-		"common": 9616
+		"ips": 9586732,
+		"common": 9599
 	},
 	{
 		"name": "firehol_proxies",
@@ -537,7 +537,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738628,
-		"common": 2122
+		"common": 2120
 	},
 	{
 		"name": "gofferje_sip",
@@ -639,7 +639,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 428
+		"common": 427
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -729,7 +729,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 771
+		"common": 770
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -795,31 +795,31 @@
 		"name": "ipblacklistcloud_recent",
 		"category": "abuse",
 		"ips": 32,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "ipblacklistcloud_recent_1d",
 		"category": "abuse",
 		"ips": 61,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
 		"ips": 627,
-		"common": 64
+		"common": 62
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
 		"ips": 166,
-		"common": 24
+		"common": 22
 	},
 	{
 		"name": "ipblacklistcloud_top",
 		"category": "abuse",
 		"ips": 232,
-		"common": 33
+		"common": 31
 	},
 	{
 		"name": "iw_spamlist",
@@ -843,7 +843,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 957255,
-		"common": 634
+		"common": 633
 	},
 	{
 		"name": "malwaredomainlist",
@@ -866,7 +866,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29269,
+		"ips": 29100,
 		"common": 47
 	},
 	{
@@ -1065,7 +1065,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1546
+		"common": 1544
 	},
 	{
 		"name": "ransomware_feed",
@@ -1179,7 +1179,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 301
+		"common": 299
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1203,7 +1203,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 211
+		"common": 210
 	},
 	{
 		"name": "spamhaus_drop",
