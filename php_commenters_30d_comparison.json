@@ -62,19 +62,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5827,
+		"ips": 5833,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7376,
+		"ips": 7384,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24040,
+		"ips": 24044,
 		"common": 2
 	},
 	{
@@ -386,8 +386,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35926,
-		"common": 401
+		"ips": 35925,
+		"common": 400
 	},
 	{
 		"name": "firehol_level1",
@@ -1083,25 +1083,25 @@
 		"name": "tor_exits",
 		"category": "anonymizers",
 		"ips": 925,
-		"common": 197
+		"common": 196
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 985,
+		"ips": 986,
 		"common": 203
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2165,
+		"ips": 2163,
 		"common": 233
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1273,
-		"common": 214
+		"ips": 1269,
+		"common": 213
 	},
 	{
 		"name": "trustedsec_atif",
@@ -1118,8 +1118,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 224,
-		"common": 6
+		"ips": 256,
+		"common": 9
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 138,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
