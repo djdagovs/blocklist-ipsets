@@ -266,14 +266,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23248,
-		"common": 33
+		"ips": 23307,
+		"common": 32
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20559,
-		"common": 33
+		"ips": 20616,
+		"common": 32
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35764,
+		"ips": 35750,
 		"common": 221
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132833,
+		"ips": 133111,
 		"common": 3471
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22628,
+		"ips": 22614,
 		"common": 217
 	},
 	{
@@ -884,25 +884,25 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 145,
-		"common": 7
+		"ips": 140,
+		"common": 10
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 477,
-		"common": 29
+		"ips": 425,
+		"common": 27
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4200,
+		"ips": 4177,
 		"common": 114
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1515,
+		"ips": 1529,
 		"common": 83
 	},
 	{
@@ -924,21 +924,27 @@
 		"common": 7
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1294,
+		"ips": 1288,
 		"common": 34
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8886,
+		"ips": 8885,
 		"common": 52
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3528,
+		"ips": 3527,
 		"common": 46
 	},
 	{
@@ -992,7 +998,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 411,
+		"ips": 408,
 		"common": 12
 	},
 	{
@@ -1004,7 +1010,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1151,
+		"ips": 1149,
 		"common": 16
 	},
 	{
