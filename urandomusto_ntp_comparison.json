@@ -129,7 +129,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 486,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -153,25 +153,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 7168,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29440,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 16128,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "dshield_top_1000",
@@ -183,13 +183,13 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24711142,
-		"common": 19
+		"common": 17
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 19
+		"common": 17
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -201,19 +201,19 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654537157,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 42997,
-		"common": 30
+		"common": 28
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132987,
-		"common": 38
+		"common": 36
 	},
 	{
 		"name": "firehol_level4",
@@ -225,7 +225,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738828,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "gofferje_sip",
@@ -279,7 +279,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 20
+		"common": 18
 	},
 	{
 		"name": "iblocklist_level3",
@@ -327,19 +327,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
 		"common": 2
-	},
-	{
-		"name": "sorbs_noserver",
-		"category": "spam",
-		"ips": 22951270,
-		"common": 1
 	},
 	{
 		"name": "taichung",
@@ -363,7 +357,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 46271,
-		"common": 38
+		"common": 37
 	},
 	{
 		"name": "urandomusto_dns",
