@@ -104,31 +104,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35127,
-		"common": 34
+		"ips": 35049,
+		"common": 33
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3726,
+		"ips": 3716,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18097,
+		"ips": 18071,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14882,
+		"ips": 14856,
 		"common": 10
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9444,
+		"ips": 9439,
 		"common": 1
 	},
 	{
@@ -524,8 +524,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43399,
-		"common": 34
+		"ips": 43320,
+		"common": 33
 	},
 	{
 		"name": "firehol_level3",
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586570,
+		"ips": 9586566,
 		"common": 137
 	},
 	{
@@ -698,8 +698,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25666,
-		"common": 80
+		"ips": 25467,
+		"common": 82
 	},
 	{
 		"name": "nullsecure",
@@ -710,14 +710,14 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3984,
+		"ips": 3952,
 		"common": 10
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2628,
-		"common": 5
+		"ips": 2639,
+		"common": 7
 	},
 	{
 		"name": "php_dictionary",
@@ -1026,10 +1026,16 @@
 		"common": 23
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 269,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 442,
-		"common": 3
+		"ips": 446,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
