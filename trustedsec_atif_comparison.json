@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9740,
+		"ips": 9791,
 		"common": 7
 	},
 	{
@@ -488,13 +488,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35858,
+		"ips": 35859,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654537149,
+		"ips": 654537147,
 		"common": 34
 	},
 	{
@@ -506,19 +506,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132849,
+		"ips": 132848,
 		"common": 165
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586874,
+		"ips": 9586925,
 		"common": 138
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22765,
+		"ips": 22766,
 		"common": 1
 	},
 	{
@@ -746,7 +746,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28940,
+		"ips": 28795,
 		"common": 1
 	},
 	{
@@ -972,12 +972,6 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 195,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_malware",
 		"category": "malware",
 		"ips": 3,
@@ -986,25 +980,31 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 123,
+		"ips": 124,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 186,
-		"common": 5
+		"ips": 180,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 42,
+		"ips": 43,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 186,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 127,
+		"ips": 126,
 		"common": 1
 	},
 	{
