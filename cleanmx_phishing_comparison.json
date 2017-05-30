@@ -38,7 +38,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 118,
+		"ips": 115,
 		"common": 8
 	},
 	{
@@ -50,14 +50,14 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 113,
+		"ips": 114,
 		"common": 12
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 66,
-		"common": 8
+		"ips": 42,
+		"common": 3
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -98,19 +98,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35506,
+		"ips": 35357,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 317,
+		"ips": 315,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17088,
+		"ips": 17030,
 		"common": 2
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35993,
+		"ips": 35989,
 		"common": 1
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44226,
+		"ips": 44080,
 		"common": 14
 	},
 	{
@@ -804,6 +804,12 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2892,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
@@ -812,7 +818,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4901,
+		"ips": 4900,
 		"common": 122
 	},
 	{
