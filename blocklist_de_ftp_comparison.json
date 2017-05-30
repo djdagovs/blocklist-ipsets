@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 289,
+		"ips": 283,
 		"common": 3
 	},
 	{
@@ -51,13 +51,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 35442,
-		"common": 315
+		"common": 317
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 9738,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "bruteforceblocker",
@@ -170,13 +170,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22777,
+		"ips": 22810,
 		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20084,
+		"ips": 20116,
 		"common": 2
 	},
 	{
@@ -260,26 +260,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654549740,
+		"ips": 654549732,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 44163,
-		"common": 315
+		"common": 317
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133396,
+		"ips": 133393,
 		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9586928,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "firehol_webclient",
@@ -309,7 +309,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2084,
-		"common": 114
+		"common": 115
 	},
 	{
 		"name": "haley_ssh",
@@ -405,6 +405,36 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 24712448,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 32,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 61,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_30d",
+		"category": "abuse",
+		"ips": 627,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_7d",
+		"category": "abuse",
+		"ips": 166,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_top",
+		"category": "abuse",
+		"ips": 232,
 		"common": 1
 	},
 	{
@@ -567,6 +597,6 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 156,
-		"common": 48
+		"common": 49
 	}
 ]
