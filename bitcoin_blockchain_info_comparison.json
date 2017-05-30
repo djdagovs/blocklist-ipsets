@@ -8,44 +8,44 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1269,
-		"common": 523
+		"ips": 1273,
+		"common": 521
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7139,
-		"common": 523
+		"ips": 7141,
+		"common": 521
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 3679,
-		"common": 523
+		"common": 521
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5943,
-		"common": 514
+		"ips": 5936,
+		"common": 512
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7421,
-		"common": 516
+		"ips": 7423,
+		"common": 514
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24179,
-		"common": 518
+		"ips": 24180,
+		"common": 516
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12666,
-		"common": 517
+		"ips": 12663,
+		"common": 515
 	},
 	{
 		"name": "blocklist_de",
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35789,
+		"ips": 35785,
 		"common": 11
 	},
 	{
@@ -219,7 +219,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9586732,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -243,19 +243,25 @@
 		"name": "iblocklist_badpeers",
 		"category": "reputation",
 		"ips": 1568848,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 15
+		"common": 17
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 17
+		"common": 16
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 9145088,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_cablevision",
@@ -273,7 +279,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -297,13 +303,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762689871,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 30
+		"common": 27
 	},
 	{
 		"name": "iblocklist_level3",
@@ -363,7 +369,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 81
+		"common": 79
 	},
 	{
 		"name": "sorbs_noserver",
