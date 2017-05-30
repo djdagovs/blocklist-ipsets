@@ -236,7 +236,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 592,
+		"ips": 595,
 		"common": 42
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327507,
+		"ips": 327508,
 		"common": 1
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "et_compromised",
 		"category": "attacks",
-		"ips": 1345,
-		"common": 2
+		"ips": 1242,
+		"common": 3
 	},
 	{
 		"name": "et_dshield",
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35728,
+		"ips": 35718,
 		"common": 1
 	},
 	{
@@ -339,7 +339,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 133553,
-		"common": 229
+		"common": 230
 	},
 	{
 		"name": "firehol_level4",
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22594,
+		"ips": 22585,
 		"common": 1
 	},
 	{
@@ -363,13 +363,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738861,
-		"common": 130
+		"common": 131
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095824,
-		"common": 43
+		"common": 44
 	},
 	{
 		"name": "greensnow",
@@ -441,13 +441,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 68
+		"common": 69
 	},
 	{
 		"name": "iblocklist_org_joost",
@@ -483,7 +483,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -525,7 +525,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 122
+		"common": 123
+	},
+	{
+		"name": "shunlist",
+		"category": "attacks",
+		"ips": 500,
+		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",
@@ -662,7 +668,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 27311,
-		"common": 256
+		"ips": 27327,
+		"common": 261
 	}
 ]
