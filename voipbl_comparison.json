@@ -452,7 +452,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 611,
+		"ips": 607,
 		"common": 35
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 125079,
+		"ips": 125081,
 		"common": 13
 	},
 	{
@@ -1016,7 +1016,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4901,
+		"ips": 4900,
 		"common": 1
 	},
 	{
@@ -1226,8 +1226,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 218,
-		"common": 6
+		"ips": 224,
+		"common": 5
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 149,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1242,22 +1248,16 @@
 		"common": 3
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 175,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 444,
+		"ips": 442,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 125,
-		"common": 40
+		"common": 42
 	},
 	{
 		"name": "urandomusto_vnc",
