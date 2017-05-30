@@ -27,7 +27,7 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "bds_atif",
@@ -80,38 +80,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35305,
+		"ips": 35218,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8870,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_ftp",
-		"category": "attacks",
-		"ips": 322,
+		"ips": 8873,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3776,
+		"ips": 3716,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17046,
+		"ips": 16954,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15442,
-		"common": 1
+		"ips": 15460,
+		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -248,7 +242,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 491,
+		"ips": 490,
 		"common": 43
 	},
 	{
@@ -380,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35930,
+		"ips": 35926,
 		"common": 31
 	},
 	{
@@ -392,7 +386,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44044,
+		"ips": 43957,
 		"common": 21
 	},
 	{
@@ -410,7 +404,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22821,
+		"ips": 22817,
 		"common": 17
 	},
 	{
@@ -465,7 +459,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -525,7 +519,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "iblocklist_level3",
@@ -753,7 +747,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "spamhaus_drop",
@@ -776,7 +770,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5053,
+		"ips": 5187,
 		"common": 27
 	},
 	{
@@ -861,7 +855,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 46271,
-		"common": 96
+		"common": 95
 	},
 	{
 		"name": "urandomusto_dns",
