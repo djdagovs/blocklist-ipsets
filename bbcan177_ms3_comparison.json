@@ -950,8 +950,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29240,
-		"common": 82
+		"ips": 29386,
+		"common": 84
 	},
 	{
 		"name": "nt_malware_http",
@@ -1418,8 +1418,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 145,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 218,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
@@ -1430,14 +1436,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 186,
-		"common": 2
+		"ips": 175,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 439,
-		"common": 5
+		"ips": 444,
+		"common": 8
 	},
 	{
 		"name": "voipbl",

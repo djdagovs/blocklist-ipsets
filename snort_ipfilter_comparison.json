@@ -896,7 +896,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29240,
+		"ips": 29386,
 		"common": 46
 	},
 	{
@@ -1358,13 +1358,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 145,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 153,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
 		"category": "malware",
 		"ips": 3,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
 		"common": 1
 	},
 	{

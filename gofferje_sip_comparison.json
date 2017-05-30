@@ -1022,8 +1022,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29240,
-		"common": 144
+		"ips": 29386,
+		"common": 147
 	},
 	{
 		"name": "nt_malware_irc",
@@ -1580,19 +1580,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 156,
-		"common": 1
+		"ips": 145,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 155,
+		"ips": 218,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 153,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 125,
+		"ips": 124,
 		"common": 1
 	},
 	{
@@ -1608,10 +1614,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 175,
+		"common": 13
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 122,
-		"common": 11
+		"ips": 125,
+		"common": 12
 	},
 	{
 		"name": "urlvir",

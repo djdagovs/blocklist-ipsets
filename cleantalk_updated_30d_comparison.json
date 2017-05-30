@@ -1106,7 +1106,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29240,
+		"ips": 29386,
 		"common": 374
 	},
 	{
@@ -1658,19 +1658,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 145,
 		"common": 26
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 155,
+		"ips": 218,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 153,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 125,
+		"ips": 124,
 		"common": 1
 	},
 	{
@@ -1680,9 +1686,15 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 175,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 122,
+		"ips": 125,
 		"common": 1
 	},
 	{
