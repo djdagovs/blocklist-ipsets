@@ -77,7 +77,7 @@
 [ -f 'blocklist_de_sip.ipset' ] && /usr/bin/touch --date=@1496128229 'blocklist_de_sip.ipset'
 [ -f 'blocklist_de_ssh.ipset' ] && /usr/bin/touch --date=@1496129417 'blocklist_de_ssh.ipset'
 [ -f 'blocklist_de_strongips.ipset' ] && /usr/bin/touch --date=@1496126209 'blocklist_de_strongips.ipset'
-[ -f 'blocklist_net_ua.ipset' ] && /usr/bin/touch --date=@1496129102 'blocklist_net_ua.ipset'
+[ -f 'blocklist_net_ua.ipset' ] && /usr/bin/touch --date=@1496129404 'blocklist_net_ua.ipset'
 [ -f 'blueliv_crimeserver_last.ipset' ] && /usr/bin/touch --date=@1488085980 'blueliv_crimeserver_last.ipset'
 [ -f 'blueliv_crimeserver_last_1d.ipset' ] && /usr/bin/touch --date=@1488085980 'blueliv_crimeserver_last_1d.ipset'
 [ -f 'blueliv_crimeserver_last_2d.ipset' ] && /usr/bin/touch --date=@1488085980 'blueliv_crimeserver_last_2d.ipset'
