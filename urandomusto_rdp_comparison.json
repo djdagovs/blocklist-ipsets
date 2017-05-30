@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 31906,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -68,19 +68,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35315,
+		"ips": 35228,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8878,
+		"ips": 8875,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15496,
+		"ips": 15443,
 		"common": 1
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44046,
+		"ips": 43960,
 		"common": 16
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586911,
+		"ips": 9586922,
 		"common": 3
 	},
 	{
@@ -315,6 +315,12 @@
 		"name": "iblocklist_org_blizzard",
 		"category": "organizations",
 		"ips": 16795139,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4346058,
 		"common": 1
 	},
 	{
@@ -459,7 +465,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 46271,
-		"common": 64
+		"common": 65
 	},
 	{
 		"name": "urandomusto_dns",
@@ -470,13 +476,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 256,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 187,
+		"ips": 195,
 		"common": 1
 	},
 	{

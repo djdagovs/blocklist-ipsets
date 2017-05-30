@@ -80,49 +80,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35315,
-		"common": 110
+		"ips": 35228,
+		"common": 109
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8878,
+		"ips": 8875,
 		"common": 60
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 297,
+		"ips": 296,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 337,
+		"ips": 336,
 		"common": 57
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 320,
+		"ips": 319,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3745,
+		"ips": 3732,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17024,
+		"ips": 17010,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15496,
+		"ips": 15443,
 		"common": 1
 	},
 	{
@@ -134,8 +134,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9774,
-		"common": 206
+		"ips": 9787,
+		"common": 207
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35904,
+		"ips": 35897,
 		"common": 58
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 44046,
-		"common": 155
+		"ips": 43960,
+		"common": 154
 	},
 	{
 		"name": "firehol_level3",
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586911,
+		"ips": 9586922,
 		"common": 24199
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22791,
+		"ips": 22784,
 		"common": 37
 	},
 	{
@@ -1064,19 +1064,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 329,
+		"ips": 328,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2987,
+		"ips": 2984,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1128,
+		"ips": 1129,
 		"common": 1
 	},
 	{
@@ -1184,8 +1184,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 256,
+		"ips": 195,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 139,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
