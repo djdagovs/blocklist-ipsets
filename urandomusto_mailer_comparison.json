@@ -1,9 +1,9 @@
 [
 	{
-		"name": "alienvault_reputation",
+		"name": "bds_atif",
 		"category": "reputation",
-		"ips": 32183,
-		"common": 2
+		"ips": 5275,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de",
@@ -15,126 +15,36 @@
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8874,
-		"common": 170
-	},
-	{
-		"name": "blocklist_de_imap",
-		"category": "attacks",
-		"ips": 3783,
-		"common": 1
+		"common": 173
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 17170,
-		"common": 172
-	},
-	{
-		"name": "blocklist_de_ssh",
-		"category": "attacks",
-		"ips": 15445,
-		"common": 1
-	},
-	{
-		"name": "ciarmy",
-		"category": "reputation",
-		"ips": 16668,
-		"common": 2
-	},
-	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 2
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 7168,
-		"common": 2
-	},
-	{
-		"name": "dshield_30d",
-		"category": "attacks",
-		"ips": 29440,
-		"common": 2
-	},
-	{
-		"name": "dshield_7d",
-		"category": "attacks",
-		"ips": 16128,
-		"common": 2
-	},
-	{
-		"name": "et_block",
-		"category": "attacks",
-		"ips": 24711142,
-		"common": 2
-	},
-	{
-		"name": "et_dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 2
-	},
-	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 654537148,
-		"common": 2
+		"common": 173
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43967,
-		"common": 175
+		"common": 173
 	},
 	{
-		"name": "firehol_level3",
-		"category": "attacks",
-		"ips": 132929,
-		"common": 2
-	},
-	{
-		"name": "iblocklist_ciarmy_malicious",
+		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 16147,
-		"common": 2
-	},
-	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346613099,
-		"common": 2
-	},
-	{
-		"name": "jigsaw_malware",
-		"category": "malware",
-		"ips": 59614,
+		"ips": 2891,
 		"common": 1
 	},
 	{
-		"name": "sorbs_web",
-		"category": "spam",
-		"ips": 6267285,
-		"common": 1
-	},
-	{
-		"name": "taichung",
-		"category": "attacks",
-		"ips": 14004,
-		"common": 2
-	},
-	{
-		"name": "turris_greylist",
+		"name": "trustedsec_atif",
 		"category": "reputation",
-		"ips": 46271,
-		"common": 2
+		"ips": 1590,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 178,
-		"common": 169
+		"ips": 190,
+		"common": 167
 	}
 ]
