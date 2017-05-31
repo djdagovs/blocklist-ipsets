@@ -140,8 +140,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6880,
-		"common": 9
+		"ips": 6818,
+		"common": 7
 	},
 	{
 		"name": "botscout_1d",
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35577,
+		"ips": 35434,
 		"common": 14
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22368,
+		"ips": 22365,
 		"common": 9
 	},
 	{
@@ -854,13 +854,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 190,
+		"ips": 188,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 176,
 		"common": 3
 	},
 	{
@@ -868,6 +868,18 @@
 		"category": "attacks",
 		"ips": 45,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 290,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 130,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",

@@ -170,7 +170,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6880,
+		"ips": 6818,
 		"common": 33
 	},
 	{
@@ -518,8 +518,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35577,
-		"common": 62
+		"ips": 35434,
+		"common": 61
 	},
 	{
 		"name": "firehol_level1",
@@ -548,8 +548,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22368,
-		"common": 29
+		"ips": 22365,
+		"common": 28
 	},
 	{
 		"name": "firehol_webclient",
@@ -872,7 +872,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1135,
+		"ips": 1144,
 		"common": 3
 	},
 	{
@@ -884,7 +884,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3426,
+		"ips": 3429,
 		"common": 10
 	},
 	{
@@ -934,12 +934,6 @@
 		"category": "malware",
 		"ips": 2784,
 		"common": 4
-	},
-	{
-		"name": "sslproxies_30d",
-		"category": "anonymizers",
-		"ips": 2972,
-		"common": 1
 	},
 	{
 		"name": "stopforumspam",
@@ -1040,13 +1034,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 188,
+		"ips": 203,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 290,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 450,
 		"common": 1
 	},
 	{
