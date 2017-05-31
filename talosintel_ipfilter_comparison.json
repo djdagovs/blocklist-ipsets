@@ -44,8 +44,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 288,
-		"common": 31
+		"ips": 287,
+		"common": 32
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9449,
-		"common": 116
+		"ips": 9448,
+		"common": 115
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -884,8 +884,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25826,
-		"common": 42
+		"ips": 25729,
+		"common": 43
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1326,9 +1326,21 @@
 		"common": 86
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 164,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_malware",
 		"category": "malware",
 		"ips": 3,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 446,
 		"common": 1
 	},
 	{
