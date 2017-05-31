@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9413,
+		"ips": 9409,
 		"common": 3
 	},
 	{
@@ -128,13 +128,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 27986,
+		"ips": 27946,
 		"common": 12
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 234276,
+		"ips": 234263,
 		"common": 20
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586534,
+		"ips": 9586529,
 		"common": 17
 	},
 	{
@@ -222,22 +222,28 @@
 		"common": 1
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 96,
-		"common": 3
+		"ips": 50,
+		"common": 1
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 1017,
-		"common": 14
+		"ips": 1020,
+		"common": 15
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 345,
-		"common": 5
+		"ips": 346,
+		"common": 6
 	},
 	{
 		"name": "pushing_inertia_blocklist",
