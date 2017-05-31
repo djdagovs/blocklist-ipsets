@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34828,
+		"ips": 34644,
 		"common": 35
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8833,
+		"ips": 8834,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 305,
+		"ips": 303,
 		"common": 4
 	},
 	{
@@ -62,19 +62,19 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18244,
+		"ips": 18133,
 		"common": 30
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 170,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9647,
+		"ips": 9635,
 		"common": 20
 	},
 	{
@@ -90,21 +90,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 48,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1030,
-		"common": 6
+		"ips": 1019,
+		"common": 7
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15486,
+		"ips": 15474,
 		"common": 102
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4841,
+		"ips": 4832,
 		"common": 46
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6852,
+		"ips": 6881,
 		"common": 1
 	},
 	{
@@ -230,7 +236,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33676,
+		"ips": 33679,
 		"common": 173
 	},
 	{
@@ -242,13 +248,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35531,
+		"ips": 35584,
 		"common": 326
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43304,
+		"ips": 43106,
 		"common": 35
 	},
 	{
@@ -260,7 +266,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586795,
+		"ips": 9586772,
 		"common": 111
 	},
 	{
@@ -794,14 +800,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 56,
-		"common": 20
+		"ips": 58,
+		"common": 21
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 140,
-		"common": 37
+		"ips": 139,
+		"common": 39
 	},
 	{
 		"name": "xroxy_30d",
@@ -812,7 +818,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 224,
-		"common": 42
+		"ips": 225,
+		"common": 43
 	}
 ]
