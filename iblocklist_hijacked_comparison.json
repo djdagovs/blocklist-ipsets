@@ -332,13 +332,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23473,
+		"ips": 23449,
 		"common": 36
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20768,
+		"ips": 20748,
 		"common": 35
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327516,
+		"ips": 327515,
 		"common": 35
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35637,
+		"ips": 35634,
 		"common": 7
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22569,
+		"ips": 22566,
 		"common": 4
 	},
 	{
@@ -818,7 +818,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5061,
+		"ips": 5059,
 		"common": 2
 	},
 	{
@@ -848,8 +848,8 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 32984,
-		"common": 436
+		"ips": 32862,
+		"common": 441
 	},
 	{
 		"name": "shunlist",
@@ -914,7 +914,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3001,
+		"ips": 2999,
 		"common": 1
 	},
 	{
@@ -1020,9 +1020,21 @@
 		"common": 18
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 284,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 131,
+		"ips": 129,
 		"common": 1
 	},
 	{

@@ -104,8 +104,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 276,
-		"common": 47
+		"ips": 278,
+		"common": 49
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -422,13 +422,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23473,
+		"ips": 23449,
 		"common": 96
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20768,
+		"ips": 20748,
 		"common": 95
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327516,
+		"ips": 327515,
 		"common": 184
 	},
 	{
@@ -728,7 +728,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35637,
+		"ips": 35634,
 		"common": 483
 	},
 	{
@@ -758,7 +758,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22569,
+		"ips": 22566,
 		"common": 461
 	},
 	{
@@ -1310,7 +1310,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5061,
+		"ips": 5059,
 		"common": 200
 	},
 	{
@@ -1382,8 +1382,8 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 32984,
-		"common": 203
+		"ips": 32862,
+		"common": 204
 	},
 	{
 		"name": "shunlist",
@@ -1400,7 +1400,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8826,
+		"ips": 8825,
 		"common": 2
 	},
 	{
@@ -1478,19 +1478,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 414,
+		"ips": 416,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3001,
+		"ips": 2999,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1153,
+		"ips": 1154,
 		"common": 1
 	},
 	{
@@ -1596,16 +1596,22 @@
 		"common": 66
 	},
 	{
-		"name": "urandomusto_ftp",
+		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 144,
+		"ips": 213,
+		"common": 14
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 148,
 		"common": 1
 	},
 	{
-		"name": "urandomusto_http",
+		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 218,
-		"common": 4
+		"ips": 284,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
