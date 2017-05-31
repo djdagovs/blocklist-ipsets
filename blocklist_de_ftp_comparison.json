@@ -62,14 +62,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34535,
-		"common": 424
+		"ips": 34644,
+		"common": 425
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9555,
-		"common": 38
+		"ips": 9503,
+		"common": 39
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -272,26 +272,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654480569,
+		"ips": 654480568,
 		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43001,
-		"common": 424
+		"ips": 43109,
+		"common": 425
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 134906,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586752,
-		"common": 46
+		"ips": 9586732,
+		"common": 47
 	},
 	{
 		"name": "firehol_webclient",
@@ -321,13 +321,13 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1469,
-		"common": 106
+		"common": 105
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25716,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "hphosts_fsa",
@@ -351,7 +351,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -363,7 +363,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_isp_charter",
@@ -387,7 +387,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690312,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "iblocklist_level2",
@@ -411,6 +411,12 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 24700160,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 339021,
 		"common": 1
 	},
 	{
@@ -453,7 +459,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "lashback_ubl",
@@ -470,7 +476,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24678,
+		"ips": 24539,
 		"common": 2
 	},
 	{
@@ -495,7 +501,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "ransomware_feed",
@@ -610,5 +616,11 @@
 		"category": "attacks",
 		"ips": 252,
 		"common": 2
+	},
+	{
+		"name": "vxvault",
+		"category": "malware",
+		"ips": 76,
+		"common": 1
 	}
 ]
