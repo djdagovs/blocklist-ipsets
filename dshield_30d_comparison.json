@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32225,
-		"common": 935
+		"common": 941
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -75,7 +75,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5406,
-		"common": 236
+		"common": 244
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -120,15 +120,9 @@
 		"common": 97
 	},
 	{
-		"name": "bitcoin_blockchain_info",
-		"category": "organizations",
-		"ips": 1099,
-		"common": 2
-	},
-	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 3015,
+		"ips": 3014,
 		"common": 6
 	},
 	{
@@ -146,38 +140,38 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5831,
+		"ips": 5840,
 		"common": 8
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7355,
+		"ips": 7354,
 		"common": 9
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24209,
+		"ips": 24205,
 		"common": 13
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12527,
+		"ips": 12524,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 34762,
-		"common": 139
+		"common": 140
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8842,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -297,7 +291,7 @@
 		"name": "botvrij_dst",
 		"category": "attacks",
 		"ips": 98,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bruteforceblocker",
@@ -309,7 +303,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 16848,
-		"common": 572
+		"common": 576
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -459,7 +453,7 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 590,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "dm_tor",
@@ -542,20 +536,20 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 7168,
-		"common": 7168
+		"ips": 8448,
+		"common": 8448
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 16640,
-		"common": 16640
+		"ips": 17408,
+		"common": 17408
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 864,
-		"common": 31
+		"common": 33
 	},
 	{
 		"name": "et_block",
@@ -614,20 +608,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654512570,
-		"common": 5890
+		"ips": 654512314,
+		"common": 5634
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42959,
-		"common": 7310
+		"ips": 44236,
+		"common": 8588
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133168,
-		"common": 29184
+		"ips": 133674,
+		"common": 29696
 	},
 	{
 		"name": "firehol_level4",
@@ -735,7 +729,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 16497,
-		"common": 625
+		"common": 627
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -771,13 +765,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 3856
+		"common": 4112
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 5376
+		"common": 5632
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -873,7 +867,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3869,
-		"common": 230
+		"common": 231
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -891,7 +885,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2557,
-		"common": 121
+		"common": 123
 	},
 	{
 		"name": "php_commenters_30d",
@@ -1083,7 +1077,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 78
+		"common": 80
 	},
 	{
 		"name": "spamhaus_drop",
@@ -1149,7 +1143,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 14004,
-		"common": 496
+		"common": 497
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -1197,7 +1191,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 46271,
-		"common": 1019
+		"common": 1032
 	},
 	{
 		"name": "urandomusto_dns",
@@ -1215,7 +1209,7 @@
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 204,
-		"common": 6
+		"common": 9
 	},
 	{
 		"name": "urandomusto_mailer",
@@ -1239,7 +1233,7 @@
 		"name": "urandomusto_rdp",
 		"category": "attacks",
 		"ips": 159,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "urandomusto_smb",
