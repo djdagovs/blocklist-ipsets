@@ -74,7 +74,7 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 39,
+		"ips": 45,
 		"common": 8
 	},
 	{
@@ -182,20 +182,20 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 303,
+		"ips": 302,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 394,
+		"ips": 396,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 3712,
-		"common": 18
+		"ips": 3716,
+		"common": 20
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 264,
+		"ips": 263,
 		"common": 12
 	},
 	{
@@ -1046,7 +1046,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24996,
+		"ips": 24873,
 		"common": 15
 	},
 	{
@@ -1130,25 +1130,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1672,
+		"ips": 1686,
 		"common": 2
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2816,
+		"ips": 2813,
 		"common": 2
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6380,
+		"ips": 6379,
 		"common": 3
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4102,
+		"ips": 4095,
 		"common": 2
 	},
 	{
@@ -1182,10 +1182,28 @@
 		"common": 2
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 22,
+		"common": 1
+	},
+	{
+		"name": "proxz_1d",
+		"category": "anonymizers",
+		"ips": 183,
+		"common": 1
+	},
+	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2239,
+		"ips": 2241,
 		"common": 2
+	},
+	{
+		"name": "proxz_7d",
+		"category": "anonymizers",
+		"ips": 307,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
