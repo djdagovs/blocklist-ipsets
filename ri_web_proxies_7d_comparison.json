@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 281,
+		"ips": 276,
 		"common": 2
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9524,
+		"ips": 9518,
 		"common": 54
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 34140,
+		"ips": 34184,
 		"common": 795
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654512318,
+		"ips": 654480574,
 		"common": 1
 	},
 	{
@@ -320,13 +320,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133529,
-		"common": 81
+		"ips": 134902,
+		"common": 82
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586710,
+		"ips": 9586705,
 		"common": 400
 	},
 	{
@@ -512,8 +512,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26047,
-		"common": 51
+		"ips": 25766,
+		"common": 50
 	},
 	{
 		"name": "nullsecure",
@@ -626,14 +626,14 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1526,
-		"common": 256
+		"ips": 1546,
+		"common": 264
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2732,
-		"common": 484
+		"ips": 2735,
+		"common": 485
 	},
 	{
 		"name": "proxylists_30d",
@@ -698,26 +698,26 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 25,
-		"common": 4
+		"ips": 21,
+		"common": 9
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 287,
-		"common": 85
+		"ips": 295,
+		"common": 91
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2243,
-		"common": 379
+		"ips": 2247,
+		"common": 381
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 341,
-		"common": 103
+		"ips": 348,
+		"common": 108
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -872,8 +872,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6473,
-		"common": 242
+		"ips": 6567,
+		"common": 245
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -898,6 +898,12 @@
 		"category": "abuse",
 		"ips": 160437,
 		"common": 916
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 21363,
+		"common": 1
 	},
 	{
 		"name": "turris_greylist",
