@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34598,
-		"common": 204
+		"ips": 34623,
+		"common": 203
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -66,45 +66,57 @@
 		"common": 10
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2481,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 25896,
+		"ips": 25648,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 73012,
+		"ips": 73055,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 48279,
+		"ips": 48316,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19141,
+		"ips": 19153,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 30952,
+		"ips": 30596,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 79991,
+		"ips": 80045,
 		"common": 13
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 59857,
+		"ips": 59912,
 		"common": 12
 	},
 	{
@@ -146,13 +158,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23615,
+		"ips": 23639,
 		"common": 31
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20959,
+		"ips": 20977,
 		"common": 30
 	},
 	{
@@ -224,19 +236,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 34409,
+		"ips": 34116,
 		"common": 10
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 236295,
+		"ips": 235022,
 		"common": 16
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35517,
+		"ips": 35518,
 		"common": 1
 	},
 	{
@@ -249,7 +261,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43060,
-		"common": 204
+		"common": 203
 	},
 	{
 		"name": "firehol_level3",
@@ -266,7 +278,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22388,
+		"ips": 22389,
 		"common": 1
 	},
 	{
@@ -285,7 +297,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095825,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "graphiclineweb",
@@ -537,6 +549,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27327,
-		"common": 37
+		"common": 36
 	}
 ]
