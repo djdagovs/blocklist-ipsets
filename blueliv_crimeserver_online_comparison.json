@@ -110,7 +110,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 283,
+		"ips": 281,
 		"common": 13
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34666,
+		"ips": 34753,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8837,
+		"ips": 8839,
 		"common": 2
 	},
 	{
@@ -206,19 +206,19 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 434,
+		"ips": 436,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18126,
+		"ips": 18163,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15000,
+		"ips": 15046,
 		"common": 4
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23591,
+		"ips": 23615,
 		"common": 137
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20936,
+		"ips": 20959,
 		"common": 134
 	},
 	{
@@ -656,7 +656,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35504,
+		"ips": 35505,
 		"common": 541
 	},
 	{
@@ -668,7 +668,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43125,
+		"ips": 43209,
 		"common": 38
 	},
 	{
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22393,
+		"ips": 22394,
 		"common": 123
 	},
 	{
@@ -1376,7 +1376,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8668,
+		"ips": 8669,
 		"common": 1
 	},
 	{
@@ -1558,6 +1558,12 @@
 		"category": "reputation",
 		"ips": 46271,
 		"common": 48
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 292,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
