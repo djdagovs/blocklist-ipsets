@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9546,
+		"ips": 9545,
 		"common": 94
 	},
 	{
@@ -452,13 +452,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35485,
+		"ips": 35498,
 		"common": 16
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 236027,
+		"ips": 236002,
 		"common": 65
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586783,
+		"ips": 9586782,
 		"common": 12190
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27970,
+		"ips": 27971,
 		"common": 47
 	},
 	{
@@ -848,25 +848,19 @@
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1163,
-		"common": 1
-	},
-	{
-		"name": "proxyspy_1d",
-		"category": "anonymizers",
-		"ips": 1205,
+		"ips": 1168,
 		"common": 1
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6988,
+		"ips": 6720,
 		"common": 1
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3096,
+		"ips": 2828,
 		"common": 1
 	},
 	{
@@ -890,7 +884,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 170,
+		"ips": 171,
 		"common": 5
 	},
 	{
@@ -1036,6 +1030,12 @@
 		"category": "reputation",
 		"ips": 46271,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 175,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

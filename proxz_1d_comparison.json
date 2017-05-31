@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9546,
+		"ips": 9545,
 		"common": 22
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35485,
+		"ips": 35498,
 		"common": 188
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 236027,
+		"ips": 236002,
 		"common": 230
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586783,
+		"ips": 9586782,
 		"common": 113
 	},
 	{
@@ -405,49 +405,49 @@
 		"name": "php_dictionary",
 		"category": "spam",
 		"ips": 50,
-		"common": 3
+		"common": 7
 	},
 	{
 		"name": "php_dictionary_1d",
 		"category": "spam",
 		"ips": 50,
-		"common": 3
+		"common": 7
 	},
 	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1092,
-		"common": 19
+		"ips": 1087,
+		"common": 22
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 328,
-		"common": 9
+		"ips": 289,
+		"common": 11
 	},
 	{
 		"name": "php_spammers",
 		"category": "spam",
 		"ips": 50,
-		"common": 3
+		"common": 6
 	},
 	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 3
+		"ips": 97,
+		"common": 8
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1163,
-		"common": 17
+		"ips": 1168,
+		"common": 20
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 314,
-		"common": 8
+		"ips": 349,
+		"common": 12
 	},
 	{
 		"name": "proxylists",
@@ -501,25 +501,25 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 300,
-		"common": 15
+		"common": 20
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1205,
-		"common": 62
+		"ips": 300,
+		"common": 20
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6988,
-		"common": 146
+		"ips": 6720,
+		"common": 145
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3096,
-		"common": 115
+		"ips": 2828,
+		"common": 112
 	},
 	{
 		"name": "proxz",
@@ -728,7 +728,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 203,
+		"ips": 249,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 175,
 		"common": 1
 	},
 	{
