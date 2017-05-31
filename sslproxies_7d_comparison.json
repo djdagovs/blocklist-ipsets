@@ -188,13 +188,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23630,
+		"ips": 23652,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20998,
+		"ips": 21021,
 		"common": 1
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327525,
+		"ips": 327528,
 		"common": 159
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "et_tor",
 		"category": "anonymizers",
-		"ips": 6790,
+		"ips": 6800,
 		"common": 3
 	},
 	{
@@ -249,13 +249,13 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 235771,
-		"common": 619
+		"common": 618
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35511,
-		"common": 1127
+		"ips": 35513,
+		"common": 1126
 	},
 	{
 		"name": "firehol_level2",
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 135016,
+		"ips": 135142,
 		"common": 22
 	},
 	{
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22347,
-		"common": 1127
+		"ips": 22349,
+		"common": 1126
 	},
 	{
 		"name": "firehol_webclient",
@@ -549,13 +549,13 @@
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 6988,
-		"common": 287
+		"common": 286
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
 		"ips": 3096,
-		"common": 229
+		"common": 228
 	},
 	{
 		"name": "proxz",
@@ -648,15 +648,21 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1113,
+		"ips": 1119,
 		"common": 18
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8624,
+		"ips": 8626,
 		"common": 24
 	},
 	{
@@ -710,26 +716,26 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 345,
-		"common": 345
+		"ips": 347,
+		"common": 347
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2972,
-		"common": 1134
+		"ips": 2971,
+		"common": 1133
 	},
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 157800,
-		"common": 346
+		"common": 345
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 290398,
-		"common": 348
+		"common": 347
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -741,25 +747,25 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 62694,
-		"common": 307
+		"common": 306
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 540772,
-		"common": 349
+		"common": 348
 	},
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
 		"ips": 19257,
-		"common": 263
+		"common": 262
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 160437,
-		"common": 329
+		"common": 328
 	},
 	{
 		"name": "talosintel_ipfilter",
