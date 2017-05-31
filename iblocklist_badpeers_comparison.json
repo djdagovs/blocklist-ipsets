@@ -98,31 +98,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34609,
+		"ips": 34535,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 426,
+		"ips": 424,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2414,
+		"ips": 2403,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18118,
+		"ips": 18103,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14986,
+		"ips": 14923,
 		"common": 5
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35502,
+		"ips": 35499,
 		"common": 15
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43077,
+		"ips": 43001,
 		"common": 14
 	},
 	{
@@ -410,13 +410,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586751,
+		"ips": 9586752,
 		"common": 4161
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22392,
+		"ips": 22389,
 		"common": 15
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24968,
+		"ips": 24678,
 		"common": 2
 	},
 	{
@@ -830,7 +830,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8670,
+		"ips": 8666,
 		"common": 1
 	},
 	{
@@ -963,6 +963,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 46271,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
 		"common": 1
 	},
 	{

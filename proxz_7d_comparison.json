@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 264,
+		"ips": 267,
 		"common": 3
 	},
 	{
@@ -38,13 +38,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34609,
+		"ips": 34535,
 		"common": 41
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8818,
+		"ips": 8823,
 		"common": 1
 	},
 	{
@@ -56,13 +56,13 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 347,
+		"ips": 351,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18118,
+		"ips": 18103,
 		"common": 37
 	},
 	{
@@ -242,13 +242,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35502,
+		"ips": 35499,
 		"common": 360
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43077,
+		"ips": 43001,
 		"common": 41
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586751,
+		"ips": 9586752,
 		"common": 126
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22392,
+		"ips": 22389,
 		"common": 360
 	},
 	{
@@ -398,8 +398,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 24968,
-		"common": 17
+		"ips": 24678,
+		"common": 18
 	},
 	{
 		"name": "nullsecure",
@@ -663,7 +663,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -674,7 +674,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8670,
+		"ips": 8666,
 		"common": 45
 	},
 	{
@@ -717,24 +717,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 352,
+		"ips": 351,
 		"common": 31
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2980,
+		"ips": 2982,
 		"common": 77
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1148,
+		"ips": 1150,
 		"common": 55
 	},
 	{
@@ -792,22 +792,28 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 252,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 205,
+		"ips": 175,
 		"common": 1
 	},
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 56,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 134,
-		"common": 41
+		"ips": 135,
+		"common": 42
 	},
 	{
 		"name": "xroxy_30d",
