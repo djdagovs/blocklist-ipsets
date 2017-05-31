@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32019,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -20,13 +20,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 35030,
+		"ips": 35169,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14857,
+		"ips": 14934,
 		"common": 1
 	},
 	{
@@ -39,7 +39,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 16534,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -146,14 +146,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43618,
+		"ips": 43757,
 		"common": 10
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132900,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "firehol_webserver",
@@ -177,7 +177,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 16497,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "iblocklist_dshield",
@@ -231,7 +231,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3916,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -296,25 +296,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 147,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 176,
+		"ips": 154,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 108,
-		"common": 1
+		"ips": 102,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 164,
+		"ips": 162,
 		"common": 2
 	},
 	{
