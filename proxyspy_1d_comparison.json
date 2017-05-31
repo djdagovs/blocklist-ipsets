@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9468,
+		"ips": 9475,
 		"common": 52
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327522,
+		"ips": 327524,
 		"common": 390
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586699,
+		"ips": 9586703,
 		"common": 275
 	},
 	{
@@ -756,16 +756,22 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 263,
+		"common": 1
+	},
+	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 56,
-		"common": 12
+		"ips": 55,
+		"common": 11
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 135,
-		"common": 25
+		"ips": 138,
+		"common": 27
 	},
 	{
 		"name": "xroxy_30d",
@@ -777,6 +783,6 @@
 		"name": "xroxy_7d",
 		"category": "anonymizers",
 		"ips": 225,
-		"common": 34
+		"common": 35
 	}
 ]
