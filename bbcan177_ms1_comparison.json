@@ -54,6 +54,12 @@
 		"common": 8
 	},
 	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 15,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 115,
@@ -146,19 +152,19 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 458,
+		"ips": 461,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2338,
-		"common": 3
+		"ips": 2316,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18137,
+		"ips": 18100,
 		"common": 4
 	},
 	{
@@ -350,7 +356,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 575,
+		"ips": 577,
 		"common": 1
 	},
 	{
@@ -506,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35434,
+		"ips": 35496,
 		"common": 24
 	},
 	{
@@ -536,7 +542,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22365,
+		"ips": 22430,
 		"common": 6
 	},
 	{
@@ -1046,7 +1052,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2967,
+		"ips": 2963,
 		"common": 2
 	},
 	{
@@ -1112,25 +1118,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 906,
+		"ips": 910,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 974,
+		"ips": 977,
 		"common": 2
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2175,
+		"ips": 2176,
 		"common": 3
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1244,
+		"ips": 1248,
 		"common": 2
 	},
 	{

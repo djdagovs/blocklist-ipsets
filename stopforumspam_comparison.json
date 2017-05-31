@@ -122,38 +122,38 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8827,
-		"common": 81
+		"ips": 8824,
+		"common": 80
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 301,
-		"common": 230
+		"ips": 299,
+		"common": 228
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
 		"ips": 359,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 458,
+		"ips": 461,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2338,
-		"common": 10
+		"ips": 2316,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18137,
-		"common": 490
+		"ips": 18100,
+		"common": 489
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15083,
+		"ips": 15052,
 		"common": 31
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 503,
+		"ips": 506,
 		"common": 1
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 575,
-		"common": 22
+		"ips": 577,
+		"common": 21
 	},
 	{
 		"name": "dm_tor",
@@ -656,8 +656,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35434,
-		"common": 6239
+		"ips": 35496,
+		"common": 6238
 	},
 	{
 		"name": "firehol_level1",
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22365,
+		"ips": 22430,
 		"common": 5672
 	},
 	{
@@ -1238,26 +1238,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1605,
-		"common": 640
+		"ips": 1649,
+		"common": 671
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2724,
+		"ips": 2708,
 		"common": 1205
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6349,
+		"ips": 6351,
 		"common": 2592
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4043,
-		"common": 1688
+		"ips": 4046,
+		"common": 1690
 	},
 	{
 		"name": "proxyrss",
@@ -1310,26 +1310,26 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 21,
+		"ips": 26,
 		"common": 15
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 322,
-		"common": 208
+		"ips": 311,
+		"common": 199
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2241,
-		"common": 1332
+		"ips": 2243,
+		"common": 1334
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 396,
-		"common": 257
+		"ips": 404,
+		"common": 262
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1443,24 +1443,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 27
+		"common": 4
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1144,
-		"common": 340
+		"ips": 1213,
+		"common": 339
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8644,
+		"ips": 8709,
 		"common": 1183
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3429,
+		"ips": 3497,
 		"common": 705
 	},
 	{
@@ -1533,19 +1533,19 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 56
+		"common": 55
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 345,
-		"common": 139
+		"ips": 338,
+		"common": 137
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2967,
-		"common": 915
+		"ips": 2963,
+		"common": 914
 	},
 	{
 		"name": "sslproxies_7d",
@@ -1616,25 +1616,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 906,
-		"common": 602
+		"ips": 910,
+		"common": 605
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 974,
+		"ips": 977,
 		"common": 638
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2175,
-		"common": 890
+		"ips": 2176,
+		"common": 889
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1244,
+		"ips": 1248,
 		"common": 696
 	},
 	{
