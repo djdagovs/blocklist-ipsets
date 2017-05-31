@@ -218,7 +218,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 586,
+		"ips": 590,
 		"common": 1
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 31268,
+		"ips": 31382,
 		"common": 58
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5059,
+		"ips": 5058,
 		"common": 3
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5775,
+		"ips": 5970,
 		"common": 1
 	},
 	{
@@ -620,13 +620,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 175,
 		"common": 63
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 200,
+		"ips": 212,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 196,
 		"common": 1
 	}
 ]

@@ -356,7 +356,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 586,
+		"ips": 590,
 		"common": 11
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 31268,
+		"ips": 31382,
 		"common": 1198
 	},
 	{
@@ -1100,7 +1100,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5059,
+		"ips": 5058,
 		"common": 54
 	},
 	{
@@ -1178,7 +1178,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1097,
+		"ips": 1100,
 		"common": 6
 	},
 	{
@@ -1190,7 +1190,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3459,
+		"ips": 3461,
 		"common": 6
 	},
 	{
@@ -1251,7 +1251,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1268,7 +1268,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1159,
+		"ips": 1156,
 		"common": 24
 	},
 	{
@@ -1286,8 +1286,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5775,
-		"common": 259
+		"ips": 5970,
+		"common": 260
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1376,14 +1376,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 175,
 		"common": 14
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 200,
-		"common": 12
+		"ips": 212,
+		"common": 24
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1394,13 +1394,19 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 292,
-		"common": 2
+		"ips": 290,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 124,
+		"ips": 127,
 		"common": 1
 	},
 	{
