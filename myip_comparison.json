@@ -68,8 +68,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34716,
-		"common": 52
+		"ips": 34602,
+		"common": 53
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -80,32 +80,32 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 293,
+		"ips": 289,
 		"common": 5
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 472,
+		"ips": 470,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2290,
+		"ips": 2272,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18076,
+		"ips": 18056,
 		"common": 41
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15079,
-		"common": 4
+		"ips": 14992,
+		"common": 5
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -380,13 +380,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33525,
+		"ips": 33522,
 		"common": 394
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 236128,
+		"ips": 236126,
 		"common": 776
 	},
 	{
@@ -404,8 +404,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42973,
-		"common": 61
+		"ips": 42860,
+		"common": 62
 	},
 	{
 		"name": "firehol_level3",
@@ -638,8 +638,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 19719,
-		"common": 32
+		"ips": 19769,
+		"common": 33
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -666,28 +666,16 @@
 		"common": 7
 	},
 	{
-		"name": "php_commenters",
-		"category": "spam",
-		"ips": 50,
-		"common": 3
-	},
-	{
-		"name": "php_commenters_1d",
-		"category": "spam",
-		"ips": 50,
-		"common": 3
-	},
-	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 1020,
-		"common": 21
+		"ips": 1019,
+		"common": 20
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 346,
-		"common": 14
+		"ips": 298,
+		"common": 12
 	},
 	{
 		"name": "php_dictionary",
@@ -1080,9 +1068,9 @@
 		"common": 7
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 297,
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 219,
 		"common": 1
 	},
 	{

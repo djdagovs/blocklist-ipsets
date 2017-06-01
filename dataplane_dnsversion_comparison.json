@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34716,
+		"ips": 34602,
 		"common": 2
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15079,
+		"ips": 14992,
 		"common": 1
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 205,
+		"ips": 204,
 		"common": 101
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33525,
+		"ips": 33522,
 		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 236128,
+		"ips": 236126,
 		"common": 4
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42973,
+		"ips": 42860,
 		"common": 23
 	},
 	{
@@ -392,20 +392,26 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 69,
+		"ips": 71,
 		"common": 13
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 188,
+		"ips": 189,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 249,
+		"ips": 223,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_ntp",
+		"category": "attacks",
+		"ips": 95,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
@@ -417,7 +423,7 @@
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 133,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "urandomusto_vnc",
