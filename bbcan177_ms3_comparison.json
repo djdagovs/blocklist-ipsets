@@ -194,8 +194,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6880,
-		"common": 7
+		"ips": 6891,
+		"common": 6
 	},
 	{
 		"name": "bogons",
@@ -608,8 +608,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35966,
-		"common": 134
+		"ips": 35869,
+		"common": 133
 	},
 	{
 		"name": "firehol_level1",
@@ -957,7 +957,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3662,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -968,14 +968,14 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 104,
+		"ips": 89,
 		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2169,
-		"common": 28
+		"ips": 2363,
+		"common": 30
 	},
 	{
 		"name": "php_commenters_30d",
@@ -1218,9 +1218,15 @@
 		"common": 3
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1745,
+		"ips": 1740,
 		"common": 7
 	},
 	{
@@ -1232,7 +1238,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4063,
+		"ips": 4064,
 		"common": 27
 	},
 	{
@@ -1304,7 +1310,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1175,
+		"ips": 1174,
 		"common": 6
 	},
 	{
