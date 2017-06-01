@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35936,
+		"ips": 35935,
 		"common": 9
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22739,
+		"ips": 22738,
 		"common": 2
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738941,
+		"ips": 34738850,
 		"common": 160
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3433,
+		"ips": 3345,
 		"common": 4
 	},
 	{
@@ -746,7 +746,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9163,
+		"ips": 9165,
 		"common": 1
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 177,
 		"common": 3
 	},
 	{
@@ -914,8 +914,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 348,
-		"common": 30
+		"ips": 445,
+		"common": 52
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
+		"common": 4
 	},
 	{
 		"name": "voipbl",

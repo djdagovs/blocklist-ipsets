@@ -704,8 +704,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35936,
-		"common": 9175
+		"ips": 35935,
+		"common": 9173
 	},
 	{
 		"name": "firehol_level1",
@@ -734,8 +734,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22739,
-		"common": 8472
+		"ips": 22738,
+		"common": 8470
 	},
 	{
 		"name": "firehol_webclient",
@@ -746,8 +746,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738941,
-		"common": 45879
+		"ips": 34738850,
+		"common": 45869
 	},
 	{
 		"name": "fullbogons",
@@ -1166,8 +1166,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3433,
-		"common": 779
+		"ips": 3345,
+		"common": 768
 	},
 	{
 		"name": "nixspam",
@@ -1340,26 +1340,26 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 774,
-		"common": 631
+		"ips": 840,
+		"common": 675
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1689,
-		"common": 1243
+		"ips": 1827,
+		"common": 1330
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 5062,
-		"common": 2968
+		"ips": 5054,
+		"common": 2964
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 2981,
-		"common": 1946
+		"ips": 2982,
+		"common": 1944
 	},
 	{
 		"name": "proxyspy",
@@ -1418,7 +1418,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5062,
+		"ips": 5063,
 		"common": 39
 	},
 	{
@@ -1521,24 +1521,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 29
+		"common": 22
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1742,
-		"common": 566
+		"ips": 1745,
+		"common": 567
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9163,
+		"ips": 9165,
 		"common": 2214
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4064,
+		"ips": 4066,
 		"common": 1399
 	},
 	{
@@ -1622,19 +1622,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 381,
+		"ips": 384,
 		"common": 263
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2977,
+		"ips": 2979,
 		"common": 1471
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1175,
+		"ips": 1177,
 		"common": 649
 	},
 	{
@@ -1742,14 +1742,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 175,
-		"common": 46
+		"ips": 177,
+		"common": 45
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 184,
-		"common": 6
+		"ips": 234,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 199,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_malware",
@@ -1760,13 +1766,13 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 170,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 137,
+		"ips": 138,
 		"common": 2
 	},
 	{
