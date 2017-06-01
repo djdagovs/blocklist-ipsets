@@ -188,8 +188,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6851,
-		"common": 538
+		"ips": 6852,
+		"common": 539
 	},
 	{
 		"name": "bogons",
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35973,
+		"ips": 35806,
 		"common": 2179
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22695,
+		"ips": 22704,
 		"common": 1764
 	},
 	{
@@ -1256,19 +1256,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1684,
-		"common": 130
+		"ips": 1700,
+		"common": 131
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9131,
+		"ips": 9140,
 		"common": 323
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3990,
+		"ips": 4000,
 		"common": 225
 	},
 	{
@@ -1448,19 +1448,25 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 238,
-		"common": 9
+		"ips": 242,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 193,
-		"common": 1
+		"ips": 176,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_malware",
 		"category": "malware",
 		"ips": 3,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 289,
 		"common": 1
 	},
 	{
