@@ -14,25 +14,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33880,
+		"ips": 33808,
 		"common": 200
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8839,
+		"ips": 8832,
 		"common": 190
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2139,
+		"ips": 2150,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17199,
+		"ips": 17122,
 		"common": 200
 	},
 	{
@@ -44,13 +44,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 74941,
+		"ips": 75029,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 50148,
+		"ips": 50243,
 		"common": 1
 	},
 	{
@@ -62,37 +62,37 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 82895,
+		"ips": 83052,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 62805,
+		"ips": 62965,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 234980,
+		"ips": 235090,
 		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36320,
+		"ips": 36375,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43095,
+		"ips": 43019,
 		"common": 200
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 135103,
+		"ips": 135102,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1516,
+		"ips": 1513,
 		"common": 1
 	},
 	{
@@ -140,14 +140,20 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3675,
+		"ips": 3690,
 		"common": 2
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 61,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2460,
-		"common": 2
+		"ips": 2482,
+		"common": 3
 	},
 	{
 		"name": "proxyspy_30d",
