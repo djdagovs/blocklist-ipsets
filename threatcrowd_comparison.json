@@ -86,7 +86,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 103,
+		"ips": 92,
 		"common": 12
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 122,
+		"ips": 120,
 		"common": 7
 	},
 	{
@@ -324,21 +324,27 @@
 		"common": 64
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 64,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1068,
-		"common": 2
+		"ips": 1075,
+		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15456,
+		"ips": 15449,
 		"common": 10
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4847,
+		"ips": 4840,
 		"common": 5
 	},
 	{
@@ -806,8 +812,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33472,
-		"common": 20
+		"ips": 33473,
+		"common": 19
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -818,20 +824,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35881,
+		"ips": 35882,
 		"common": 15
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654480570,
+		"ips": 654480571,
 		"common": 290
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 43244,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "firehol_level3",
@@ -842,13 +848,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586709,
+		"ips": 9586702,
 		"common": 414
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22719,
+		"ips": 22720,
 		"common": 6
 	},
 	{
@@ -891,7 +897,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1870,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "haley_ssh",
@@ -1472,19 +1478,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1716,
+		"ips": 1720,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 9153,
+		"ips": 9154,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4027,
+		"ips": 4028,
 		"common": 1
 	},
 	{
@@ -1718,7 +1724,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 118,
+		"ips": 119,
 		"common": 3
 	}
 ]
