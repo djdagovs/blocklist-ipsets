@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Thu Jun  1 13:38:57 UTC 2017.
+The following list was automatically generated on Thu Jun  1 13:40:53 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -274,13 +274,13 @@ name|info|type|entries|update|
 [bbcan177_ms1](http://iplists.firehol.org/?ipset=bbcan177_ms1)|pfBlockerNG Malicious Threats|ipv4 hash:net|2566 subnets, 5268568 unique IPs|updated every 1 day  from [this link](https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw)
 [bbcan177_ms3](http://iplists.firehol.org/?ipset=bbcan177_ms3)|pfBlockerNG Malicious Threats|ipv4 hash:net|1146 subnets, 30151694 unique IPs|updated every 1 day  from [this link](https://gist.githubusercontent.com/BBcan177/d7105c242f17f4498f81/raw)
 [bds_atif](http://iplists.firehol.org/?ipset=bds_atif)|Artillery Threat Intelligence Feed and Banlist Feed|ipv4 hash:ip|5567 unique IPs|updated every 1 day  from [this link](https://www.binarydefense.com/banlist.txt)
-[bi_any_2_1d](http://iplists.firehol.org/?ipset=bi_any_2_1d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 1d|ipv4 hash:ip|819 unique IPs|updated every 30 mins  from [this link](https://www.badips.com/get/list/any/2?age=1d)
+[bi_any_2_1d](http://iplists.firehol.org/?ipset=bi_any_2_1d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 1d|ipv4 hash:ip|818 unique IPs|updated every 30 mins  from [this link](https://www.badips.com/get/list/any/2?age=1d)
 [bi_any_2_30d](http://iplists.firehol.org/?ipset=bi_any_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 30d|ipv4 hash:ip|4631 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/any/2?age=30d)
 [bi_any_2_7d](http://iplists.firehol.org/?ipset=bi_any_2_7d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category any with score above 2 and age less than 7d|ipv4 hash:ip|1282 unique IPs|updated every 6 hours  from [this link](https://www.badips.com/get/list/any/2?age=7d)
 [bi_bruteforce_2_30d](http://iplists.firehol.org/?ipset=bi_bruteforce_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category bruteforce with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/bruteforce/2?age=30d)
 [bi_ftp_2_30d](http://iplists.firehol.org/?ipset=bi_ftp_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ftp with score above 2 and age less than 30d|ipv4 hash:ip|143 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ftp/2?age=30d)
 [bi_http_2_30d](http://iplists.firehol.org/?ipset=bi_http_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category http with score above 2 and age less than 30d|ipv4 hash:ip|137 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/http/2?age=30d)
-[bi_mail_2_30d](http://iplists.firehol.org/?ipset=bi_mail_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category mail with score above 2 and age less than 30d|ipv4 hash:ip|420 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/mail/2?age=30d)
+[bi_mail_2_30d](http://iplists.firehol.org/?ipset=bi_mail_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category mail with score above 2 and age less than 30d|ipv4 hash:ip|424 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/mail/2?age=30d)
 [bi_proxy_2_30d](http://iplists.firehol.org/?ipset=bi_proxy_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category proxy with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/proxy/2?age=30d)
 [bi_sql_2_30d](http://iplists.firehol.org/?ipset=bi_sql_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category sql with score above 2 and age less than 30d|ipv4 hash:ip|0 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/sql/2?age=30d)
 [bi_ssh_2_30d](http://iplists.firehol.org/?ipset=bi_ssh_2_30d)|[BadIPs.com](https://www.badips.com/) Bad IPs in category ssh with score above 2 and age less than 30d|ipv4 hash:ip|3975 unique IPs|updated every 1 day  from [this link](https://www.badips.com/get/list/ssh/2?age=30d)
