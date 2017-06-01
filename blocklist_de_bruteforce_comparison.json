@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34740,
-		"common": 357
+		"ips": 34745,
+		"common": 358
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8825,
-		"common": 357
+		"ips": 8826,
+		"common": 358
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35899,
+		"ips": 35889,
 		"common": 3
 	},
 	{
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42962,
-		"common": 357
+		"ips": 42967,
+		"common": 358
 	},
 	{
 		"name": "firehol_level3",
@@ -284,20 +284,20 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22721,
+		"ips": 22712,
 		"common": 3
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 27968,
-		"common": 65
+		"common": 66
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738855,
-		"common": 119
+		"common": 120
 	},
 	{
 		"name": "gofferje_sip",
@@ -327,7 +327,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25716,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "hphosts_fsa",
@@ -369,19 +369,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690312,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "iblocklist_org_microsoft",
@@ -561,7 +561,13 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5062,
-		"common": 7
+		"common": 8
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 168,
+		"common": 1
 	},
 	{
 		"name": "ri_connect_proxies_30d",
@@ -656,7 +662,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2973,
+		"ips": 2971,
 		"common": 1
 	},
 	{
