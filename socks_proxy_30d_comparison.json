@@ -356,8 +356,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35580,
-		"common": 8701
+		"ips": 35623,
+		"common": 8740
 	},
 	{
 		"name": "firehol_level1",
@@ -386,13 +386,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22480,
-		"common": 8720
+		"ips": 22523,
+		"common": 8759
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27968,
+		"ips": 27967,
 		"common": 2
 	},
 	{
@@ -453,7 +453,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 263
+		"common": 264
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -752,25 +752,25 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 825,
-		"common": 15
+		"ips": 912,
+		"common": 13
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1696,
-		"common": 38
+		"ips": 1721,
+		"common": 39
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 5074,
+		"ips": 5075,
 		"common": 134
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 2992,
+		"ips": 2982,
 		"common": 110
 	},
 	{
@@ -902,14 +902,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1443,
-		"common": 1443
+		"ips": 1484,
+		"common": 1484
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3744,
-		"common": 3744
+		"ips": 3784,
+		"common": 3784
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -921,7 +921,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1148
+		"common": 1151
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -962,19 +962,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 336,
+		"ips": 341,
 		"common": 10
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2960,
-		"common": 122
+		"ips": 2959,
+		"common": 121
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1140,
+		"ips": 1143,
 		"common": 24
 	},
 	{
@@ -1029,7 +1029,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 14004,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -1052,20 +1052,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 223,
+		"ips": 237,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 219,
-		"common": 59
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 448,
-		"common": 1
+		"ips": 178,
+		"common": 4
 	},
 	{
 		"name": "xroxy",

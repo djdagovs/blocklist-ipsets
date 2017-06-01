@@ -302,7 +302,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 512,
+		"ips": 511,
 		"common": 10
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 579,
+		"ips": 569,
 		"common": 3
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35580,
+		"ips": 35623,
 		"common": 2
 	},
 	{
@@ -458,13 +458,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22480,
+		"ips": 22523,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27968,
+		"ips": 27967,
 		"common": 4
 	},
 	{
@@ -716,19 +716,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1443,
+		"ips": 1484,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8936,
+		"ips": 8975,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3744,
+		"ips": 3784,
 		"common": 1
 	},
 	{
@@ -854,31 +854,31 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 71,
+		"ips": 72,
 		"common": 31
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 189,
+		"ips": 192,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 223,
-		"common": 7
+		"ips": 237,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 95,
+		"ips": 94,
 		"common": 11
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 180,
+		"ips": 178,
 		"common": 7
 	},
 	{
@@ -888,16 +888,28 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 291,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 133,
-		"common": 9
+		"ips": 134,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 96,
-		"common": 7
+		"ips": 99,
+		"common": 6
 	},
 	{
 		"name": "voipbl",

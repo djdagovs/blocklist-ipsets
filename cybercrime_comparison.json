@@ -332,8 +332,8 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 579,
-		"common": 8
+		"ips": 569,
+		"common": 1
 	},
 	{
 		"name": "dm_tor",
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35580,
+		"ips": 35623,
 		"common": 58
 	},
 	{
@@ -506,13 +506,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22480,
+		"ips": 22523,
 		"common": 37
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27968,
+		"ips": 27967,
 		"common": 24380
 	},
 	{
@@ -950,7 +950,7 @@
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 5074,
+		"ips": 5075,
 		"common": 1
 	},
 	{
@@ -968,7 +968,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5061,
+		"ips": 5060,
 		"common": 11
 	},
 	{
@@ -1058,19 +1058,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 336,
+		"ips": 341,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2960,
+		"ips": 2959,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1140,
+		"ips": 1143,
 		"common": 1
 	},
 	{
@@ -1172,8 +1172,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 223,
-		"common": 13
+		"ips": 237,
+		"common": 10
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 178,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 291,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

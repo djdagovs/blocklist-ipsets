@@ -116,7 +116,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 512,
+		"ips": 511,
 		"common": 7
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 579,
+		"ips": 569,
 		"common": 3
 	},
 	{
@@ -267,7 +267,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -338,38 +338,44 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 189,
+		"ips": 192,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 223,
-		"common": 1
+		"ips": 237,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 95,
+		"ips": 94,
 		"common": 9
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 180,
+		"ips": 178,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 133,
+		"ips": 134,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 96,
-		"common": 4
+		"ips": 99,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
