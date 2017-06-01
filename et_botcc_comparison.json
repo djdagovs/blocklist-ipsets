@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34677,
+		"ips": 34671,
 		"common": 1
 	},
 	{
@@ -74,14 +74,14 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9519,
+		"ips": 9515,
 		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bm_tor",
@@ -126,6 +126,12 @@
 		"common": 1
 	},
 	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 6963,
+		"common": 1
+	},
+	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 23717,
@@ -135,6 +141,12 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6848,
+		"common": 1
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 327528,
 		"common": 1
 	},
 	{
@@ -182,20 +194,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42924,
-		"common": 1
-	},
-	{
-		"name": "firehol_level3",
-		"category": "attacks",
-		"ips": 134173,
+		"ips": 42921,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586783,
-		"common": 3
+		"ips": 9586779,
+		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
@@ -207,13 +213,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738855,
-		"common": 178
+		"common": 179
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095825,
-		"common": 46
+		"common": 44
 	},
 	{
 		"name": "greensnow",
@@ -246,6 +252,12 @@
 		"common": 18
 	},
 	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 6949,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
@@ -273,13 +285,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 77
+		"common": 75
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -291,7 +303,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -309,7 +321,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 165
+		"common": 163
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -375,18 +387,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 169
+		"common": 170
 	},
 	{
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 31817,
-		"common": 1
-	},
-	{
-		"name": "snort_ipfilter",
-		"category": "attacks",
-		"ips": 20677,
 		"common": 1
 	},
 	{
@@ -453,19 +459,13 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 14004,
-		"common": 184
-	},
-	{
-		"name": "talosintel_ipfilter",
-		"category": "attacks",
-		"ips": 21362,
-		"common": 1
+		"common": 185
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "turris_greylist",
