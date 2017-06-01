@@ -2,8 +2,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 343,
-		"common": 6
+		"ips": 359,
+		"common": 7
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 43,
+		"ips": 46,
 		"common": 1
 	},
 	{
@@ -26,20 +26,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654480562,
-		"common": 6
+		"ips": 654480587,
+		"common": 7
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586635,
+		"ips": 9586591,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738941,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "hphosts_ats",
@@ -51,7 +51,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25748,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "hphosts_fsa",
@@ -92,13 +92,19 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5062,
+		"ips": 5063,
 		"common": 2
 	},
 	{
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 259,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
 		"common": 1
 	}
 ]
