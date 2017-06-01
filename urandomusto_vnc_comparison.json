@@ -87,25 +87,25 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 228,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 107,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 511,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 23743,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -117,7 +117,7 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 578,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "dragon_http",
@@ -128,7 +128,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311479,
+		"ips": 311472,
 		"common": 1
 	},
 	{
@@ -147,13 +147,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28928,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 17152,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "dshield_top_1000",
@@ -195,13 +195,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 133559,
-		"common": 27
+		"common": 26
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738941,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "gofferje_sip",
@@ -231,7 +231,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level1",
@@ -249,13 +249,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 17
+		"common": 15
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "jigsaw_malware",
@@ -297,7 +297,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "snort_ipfilter",
@@ -345,13 +345,19 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 46271,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 76,
+		"ips": 77,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 259,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -362,8 +368,8 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 179,
-		"common": 1
+		"ips": 168,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
@@ -374,7 +380,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 137,
+		"ips": 139,
 		"common": 1
 	},
 	{

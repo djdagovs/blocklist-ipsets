@@ -50,13 +50,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327526,
+		"ips": 327521,
 		"common": 1
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311479,
+		"ips": 311472,
 		"common": 3
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35915,
+		"ips": 35862,
 		"common": 1
 	},
 	{
@@ -98,13 +98,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22740,
+		"ips": 22741,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27967,
+		"ips": 27966,
 		"common": 2
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 17435,
+		"ips": 17681,
 		"common": 1
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2978,
+		"ips": 2979,
 		"common": 1
 	},
 	{
@@ -243,6 +243,18 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 14004,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 306,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
 		"common": 1
 	}
 ]
