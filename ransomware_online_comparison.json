@@ -36,15 +36,9 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de_apache",
+		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 8830,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_bruteforce",
-		"category": "attacks",
-		"ips": 362,
+		"ips": 481,
 		"common": 1
 	},
 	{
@@ -104,37 +98,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 26567,
+		"ips": 26668,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 74243,
+		"ips": 74273,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 49535,
+		"ips": 49557,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 31708,
+		"ips": 31876,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 81987,
+		"ips": 82039,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 61938,
+		"ips": 61988,
 		"common": 1
 	},
 	{
@@ -164,20 +158,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33614,
+		"ips": 33768,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 235282,
+		"ips": 235317,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654480603,
-		"common": 3
+		"ips": 654480600,
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
@@ -188,7 +182,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134171,
+		"ips": 134188,
 		"common": 4
 	},
 	{
@@ -200,8 +194,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27967,
-		"common": 167
+		"ips": 27968,
+		"common": 168
 	},
 	{
 		"name": "firehol_webserver",
@@ -255,7 +249,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level1",
@@ -345,7 +339,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5063,
-		"common": 167
+		"common": 168
 	},
 	{
 		"name": "ransomware_locky_ps",
@@ -357,7 +351,7 @@
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11816,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_dul",
