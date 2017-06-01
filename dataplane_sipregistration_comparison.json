@@ -20,20 +20,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33641,
-		"common": 6
+		"ips": 33538,
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8848,
+		"ips": 8846,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 331,
+		"ips": 328,
 		"common": 4
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 14811,
+		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
@@ -86,8 +92,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42345,
-		"common": 7
+		"ips": 42244,
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -156,9 +162,15 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3606,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2482,
+		"ips": 2505,
 		"common": 1
 	},
 	{
