@@ -38,8 +38,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 353,
-		"common": 124
+		"ips": 336,
+		"common": 119
 	},
 	{
 		"name": "bambenek_matsnu",
@@ -146,13 +146,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34698,
+		"ips": 34801,
 		"common": 24
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8834,
+		"ips": 8836,
 		"common": 2
 	},
 	{
@@ -164,19 +164,19 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 490,
+		"ips": 493,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2161,
+		"ips": 2167,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17971,
+		"ips": 18009,
 		"common": 18
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 16717,
+		"ips": 16751,
 		"common": 2
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35882,
+		"ips": 35829,
 		"common": 1
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43244,
+		"ips": 43274,
 		"common": 43
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22720,
+		"ips": 22721,
 		"common": 1
 	},
 	{
@@ -1130,8 +1130,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 193,
+		"ips": 196,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 229,
+		"common": 2
 	},
 	{
 		"name": "urlvir",

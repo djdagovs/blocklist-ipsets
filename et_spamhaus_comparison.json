@@ -110,13 +110,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34698,
+		"ips": 34801,
 		"common": 595
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8834,
+		"ips": 8836,
 		"common": 528
 	},
 	{
@@ -134,25 +134,25 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 490,
+		"ips": 493,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2161,
+		"ips": 2167,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17971,
+		"ips": 18009,
 		"common": 546
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 15163,
+		"ips": 15221,
 		"common": 4
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6867,
+		"ips": 6861,
 		"common": 6
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 16717,
+		"ips": 16751,
 		"common": 8
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 23755,
+		"ips": 23744,
 		"common": 11
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 21126,
+		"ips": 21116,
 		"common": 9
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35882,
+		"ips": 35829,
 		"common": 22
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43244,
+		"ips": 43274,
 		"common": 853
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22720,
+		"ips": 22721,
 		"common": 15
 	},
 	{
@@ -1202,14 +1202,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 193,
+		"ips": 196,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 188,
+		"ips": 181,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 278,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
