@@ -590,8 +590,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 21075,
-		"common": 374
+		"ips": 21087,
+		"common": 377
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -914,7 +914,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35564,
+		"ips": 35558,
 		"common": 2836
 	},
 	{
@@ -944,7 +944,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 22432,
+		"ips": 22426,
 		"common": 1494
 	},
 	{
@@ -1670,8 +1670,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5053,
-		"common": 266
+		"ips": 5063,
+		"common": 267
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1772,7 +1772,7 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 32862,
+		"ips": 31817,
 		"common": 961
 	},
 	{
@@ -1788,21 +1788,27 @@
 		"common": 88
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 6
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1378,
-		"common": 84
+		"ips": 1383,
+		"common": 85
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8886,
+		"ips": 8882,
 		"common": 607
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3679,
+		"ips": 3683,
 		"common": 389
 	},
 	{
@@ -1886,13 +1892,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 344,
+		"ips": 338,
 		"common": 31
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2963,
+		"ips": 2960,
 		"common": 286
 	},
 	{
