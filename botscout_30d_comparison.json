@@ -188,8 +188,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6891,
-		"common": 546
+		"ips": 6900,
+		"common": 542
 	},
 	{
 		"name": "bogons",
@@ -392,7 +392,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2786,
+		"ips": 2790,
 		"common": 3
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 35970,
+		"ips": 35947,
 		"common": 2177
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586581,
+		"ips": 9586584,
 		"common": 15344
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 20510,
+		"ips": 20513,
 		"common": 50
 	},
 	{
@@ -944,7 +944,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16130,
+		"ips": 16091,
 		"common": 114
 	},
 	{
@@ -1438,6 +1438,12 @@
 		"category": "reputation",
 		"ips": 46271,
 		"common": 115
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 200,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_malware",
