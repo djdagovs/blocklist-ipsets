@@ -32,19 +32,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34579,
+		"ips": 34677,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8825,
+		"ips": 8830,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 359,
+		"ips": 362,
 		"common": 1
 	},
 	{
@@ -177,12 +177,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654480603,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42835,
+		"ips": 42932,
 		"common": 3
 	},
 	{
@@ -200,14 +200,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 27966,
-		"common": 166
+		"ips": 27969,
+		"common": 169
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738855,
-		"common": 141
+		"common": 143
 	},
 	{
 		"name": "greensnow",
@@ -225,7 +225,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 25716,
-		"common": 139
+		"common": 141
 	},
 	{
 		"name": "hphosts_fsa",
@@ -249,19 +249,19 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690312,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level2",
@@ -339,19 +339,25 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5063,
-		"common": 166
+		"common": 169
+	},
+	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 7,
+		"common": 2
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11816,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "sorbs_dul",
@@ -429,7 +435,7 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 278,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "vxvault",
