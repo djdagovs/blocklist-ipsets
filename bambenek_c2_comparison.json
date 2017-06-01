@@ -32,7 +32,7 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 14,
+		"ips": 15,
 		"common": 14
 	},
 	{
@@ -66,9 +66,21 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 34560,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 518,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9314,
+		"ips": 9301,
 		"common": 1
 	},
 	{
@@ -192,6 +204,12 @@
 		"common": 364
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42675,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 133470,
@@ -200,7 +218,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586643,
+		"ips": 9586629,
 		"common": 52
 	},
 	{
