@@ -266,55 +266,55 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32309,
-		"common": 4942
+		"ips": 32357,
+		"common": 4944
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8840,
-		"common": 4256
+		"ips": 8842,
+		"common": 4258
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 233,
+		"ips": 234,
 		"common": 42
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 385,
-		"common": 111
+		"ips": 384,
+		"common": 112
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 557,
+		"ips": 563,
 		"common": 86
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2159,
+		"ips": 2163,
 		"common": 69
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17164,
+		"ips": 17190,
 		"common": 4470
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 312,
+		"ips": 311,
 		"common": 49
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13481,
+		"ips": 13496,
 		"common": 172
 	},
 	{
@@ -908,8 +908,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 37377,
-		"common": 4437
+		"ips": 37419,
+		"common": 4439
 	},
 	{
 		"name": "firehol_level1",
@@ -920,8 +920,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40721,
-		"common": 7615
+		"ips": 40768,
+		"common": 7617
 	},
 	{
 		"name": "firehol_level3",
@@ -938,8 +938,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24234,
-		"common": 1647
+		"ips": 24276,
+		"common": 1649
 	},
 	{
 		"name": "firehol_webclient",
@@ -1334,8 +1334,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36457,
-		"common": 601
+		"ips": 36404,
+		"common": 608
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1586,7 +1586,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5072,
+		"ips": 5071,
 		"common": 751
 	},
 	{
@@ -1634,50 +1634,50 @@
 	{
 		"name": "ri_connect_proxies",
 		"category": "anonymizers",
-		"ips": 151,
-		"common": 12
+		"ips": 149,
+		"common": 16
 	},
 	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 373,
-		"common": 27
+		"ips": 273,
+		"common": 24
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 3066,
-		"common": 214
+		"ips": 3078,
+		"common": 215
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1199,
-		"common": 83
+		"ips": 1159,
+		"common": 80
 	},
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 142,
-		"common": 15
+		"ips": 144,
+		"common": 14
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 390,
-		"common": 39
+		"ips": 472,
+		"common": 46
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4099,
-		"common": 373
+		"ips": 4127,
+		"common": 374
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1511,
-		"common": 138
+		"ips": 1506,
+		"common": 140
 	},
 	{
 		"name": "sblam",
@@ -1698,21 +1698,27 @@
 		"common": 303
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2705,
+		"ips": 2714,
 		"common": 86
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 10566,
+		"ips": 10571,
 		"common": 526
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5527,
+		"ips": 5534,
 		"common": 335
 	},
 	{
@@ -1790,20 +1796,20 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 492,
-		"common": 73
+		"ips": 517,
+		"common": 75
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3034,
-		"common": 440
+		"ips": 3055,
+		"common": 441
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1279,
-		"common": 207
+		"ips": 1304,
+		"common": 209
 	},
 	{
 		"name": "stopforumspam",
