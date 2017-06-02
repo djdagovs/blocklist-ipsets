@@ -30,6 +30,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 9216,
+		"common": 1
+	},
+	{
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
@@ -302,14 +308,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134818,
+		"ips": 134827,
 		"common": 71
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586345,
-		"common": 3
+		"ips": 9586560,
+		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
