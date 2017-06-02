@@ -56,25 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32501,
+		"ips": 32564,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8865,
+		"ips": 8861,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 534,
+		"ips": 540,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17022,
+		"ips": 17064,
 		"common": 9
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8314,
+		"ips": 8323,
 		"common": 3
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41262,
+		"ips": 41325,
 		"common": 12
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585729,
+		"ips": 9585737,
 		"common": 117
 	},
 	{
@@ -681,6 +681,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 36975,
 		"common": 1
 	},
 	{
