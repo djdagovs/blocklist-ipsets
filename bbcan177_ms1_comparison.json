@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8258,
+		"ips": 8539,
 		"common": 7
 	},
 	{
@@ -560,8 +560,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654324356,
-		"common": 5243518
+		"ips": 654324394,
+		"common": 5243519
 	},
 	{
 		"name": "firehol_level2",
@@ -578,7 +578,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585604,
+		"ips": 9585883,
 		"common": 342
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29071,
+		"ips": 29192,
 		"common": 1
 	},
 	{
@@ -962,7 +962,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5070,
+		"ips": 5071,
 		"common": 137
 	},
 	{
@@ -1078,6 +1078,12 @@
 		"category": "reputation",
 		"ips": 765184,
 		"common": 163842
+	},
+	{
+		"name": "sslbl",
+		"category": "malware",
+		"ips": 42,
+		"common": 1
 	},
 	{
 		"name": "sslbl_aggressive",
