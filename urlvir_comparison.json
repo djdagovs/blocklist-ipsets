@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35562,
+		"ips": 35563,
 		"common": 1
 	},
 	{
@@ -182,20 +182,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131922,
-		"common": 3
+		"ips": 134688,
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585623,
+		"ips": 9585626,
 		"common": 32
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25314,
-		"common": 6
+		"ips": 28092,
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
@@ -380,8 +380,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5071,
-		"common": 22
+		"ips": 5070,
+		"common": 21
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -424,6 +424,12 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 2
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2784,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_365d",

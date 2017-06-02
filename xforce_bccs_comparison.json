@@ -176,20 +176,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131922,
-		"common": 108
+		"ips": 134688,
+		"common": 137
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585623,
+		"ips": 9585626,
 		"common": 48
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25314,
-		"common": 1
+		"ips": 28092,
+		"common": 31
 	},
 	{
 		"name": "firehol_webserver",
@@ -350,7 +350,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5071,
+		"ips": 5070,
 		"common": 9
 	},
 	{
@@ -400,6 +400,12 @@
 		"category": "reputation",
 		"ips": 24619264,
 		"common": 15
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2784,
+		"common": 30
 	},
 	{
 		"name": "stopforumspam_toxic",
