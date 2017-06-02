@@ -90,22 +90,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 30,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1033,
-		"common": 28
+		"ips": 1044,
+		"common": 30
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15285,
-		"common": 28
+		"ips": 15290,
+		"common": 30
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4761,
-		"common": 28
+		"ips": 4753,
+		"common": 30
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -236,7 +242,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35752,
+		"ips": 35754,
 		"common": 700
 	},
 	{
@@ -254,13 +260,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654324414,
+		"ips": 654324400,
 		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39041,
+		"ips": 39039,
 		"common": 39
 	},
 	{
@@ -272,8 +278,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585632,
-		"common": 39
+		"ips": 9585637,
+		"common": 41
 	},
 	{
 		"name": "firehol_proxies",
