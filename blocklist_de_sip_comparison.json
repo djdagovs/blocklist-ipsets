@@ -56,19 +56,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30271,
-		"common": 275
+		"ips": 30148,
+		"common": 273
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 162,
+		"ips": 163,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10568,
+		"ips": 10592,
 		"common": 5
 	},
 	{
@@ -165,7 +165,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 480,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38169,
+		"ips": 38176,
 		"common": 1
 	},
 	{
@@ -302,25 +302,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38246,
-		"common": 275
+		"ips": 38125,
+		"common": 273
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134826,
+		"ips": 134827,
 		"common": 27
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9587912,
+		"ips": 9587935,
 		"common": 20
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24922,
+		"ips": 24929,
 		"common": 1
 	},
 	{
@@ -333,13 +333,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34738777,
-		"common": 49
+		"common": 48
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095836,
-		"common": 34
+		"common": 32
 	},
 	{
 		"name": "graphiclineweb",
@@ -462,6 +462,12 @@
 		"common": 2
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 32688,
+		"common": 1
+	},
+	{
 		"name": "nt_ssh_7d",
 		"category": "attacks",
 		"ips": 11170,
@@ -495,7 +501,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "ri_connect_proxies_30d",
@@ -597,6 +603,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 27396,
-		"common": 60
+		"common": 57
 	}
 ]
