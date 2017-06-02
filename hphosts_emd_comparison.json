@@ -62,8 +62,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 104,
-		"common": 101
+		"ips": 108,
+		"common": 104
 	},
 	{
 		"name": "bambenek_c2",
@@ -80,8 +80,8 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 10,
-		"common": 9
+		"ips": 9,
+		"common": 8
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -92,8 +92,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 122,
-		"common": 119
+		"ips": 124,
+		"common": 121
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -176,43 +176,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33420,
-		"common": 50
+		"ips": 33270,
+		"common": 48
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8872,
+		"ips": 8867,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 410,
+		"ips": 407,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 533,
+		"ips": 532,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2202,
+		"ips": 2189,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17192,
-		"common": 23
+		"ips": 17149,
+		"common": 21
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 14543,
+		"ips": 14440,
 		"common": 1
 	},
 	{
@@ -620,7 +620,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 36805,
+		"ips": 36815,
 		"common": 5
 	},
 	{
@@ -632,8 +632,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42408,
-		"common": 71
+		"ips": 42260,
+		"common": 69
 	},
 	{
 		"name": "firehol_level3",
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 23573,
+		"ips": 23584,
 		"common": 3
 	},
 	{
@@ -1102,12 +1102,6 @@
 		"category": "reputation",
 		"ips": 29439,
 		"common": 13
-	},
-	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 3606,
-		"common": 1
 	},
 	{
 		"name": "packetmail_emerging_ips",
