@@ -80,25 +80,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32954,
+		"ips": 32850,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8870,
+		"ips": 8868,
 		"common": 5
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2145,
+		"ips": 2129,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17225,
+		"ips": 17214,
 		"common": 3
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41697,
+		"ips": 41593,
 		"common": 112
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3532,
+		"ips": 3502,
 		"common": 61
 	},
 	{
@@ -360,10 +360,16 @@
 		"common": 5
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 83,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2514,
-		"common": 26
+		"ips": 2481,
+		"common": 27
 	},
 	{
 		"name": "pushing_inertia_blocklist",
