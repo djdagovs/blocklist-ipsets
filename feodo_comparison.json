@@ -20,13 +20,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31005,
+		"ips": 31073,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 554,
+		"ips": 552,
 		"common": 1
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35474,
+		"ips": 35477,
 		"common": 1
 	},
 	{
@@ -116,19 +116,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 37984,
+		"ips": 37951,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654405271,
+		"ips": 654405310,
 		"common": 896
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38970,
+		"ips": 39041,
 		"common": 1
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585628,
+		"ips": 9585630,
 		"common": 3
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28331,
+		"ips": 28602,
 		"common": 1
 	},
 	{
@@ -376,6 +376,12 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 7
+	},
+	{
+		"name": "sslbl",
+		"category": "malware",
+		"ips": 43,
+		"common": 4
 	},
 	{
 		"name": "stopforumspam",
