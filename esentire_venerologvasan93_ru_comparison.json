@@ -192,10 +192,22 @@
 		"common": 355
 	},
 	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 134440,
+		"common": 76
+	},
+	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9585653,
 		"common": 1
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 28094,
+		"common": 76
 	},
 	{
 		"name": "iblocklist_ads",
@@ -316,6 +328,12 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 36
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2784,
+		"common": 76
 	},
 	{
 		"name": "stopforumspam",

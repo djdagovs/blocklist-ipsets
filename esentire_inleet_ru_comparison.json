@@ -242,8 +242,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131674,
-		"common": 1
+		"ips": 134440,
+		"common": 77
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 28094,
+		"common": 76
 	},
 	{
 		"name": "firehol_webserver",
@@ -412,6 +418,12 @@
 		"category": "reputation",
 		"ips": 24619264,
 		"common": 1
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2784,
+		"common": 76
 	},
 	{
 		"name": "stopforumspam",

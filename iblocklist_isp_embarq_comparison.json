@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 37951,
+		"ips": 37966,
 		"common": 3
 	},
 	{
@@ -236,8 +236,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131674,
-		"common": 8
+		"ips": 134440,
+		"common": 9
 	},
 	{
 		"name": "firehol_level4",
@@ -248,14 +248,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 24763,
+		"ips": 24778,
 		"common": 3
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25316,
-		"common": 12
+		"ips": 28094,
+		"common": 13
 	},
 	{
 		"name": "firehol_webserver",
@@ -458,7 +458,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11010,
+		"ips": 11025,
 		"common": 1
 	},
 	{
@@ -496,6 +496,12 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 2212
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2784,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam",
