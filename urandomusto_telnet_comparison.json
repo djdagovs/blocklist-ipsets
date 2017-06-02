@@ -26,19 +26,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30583,
+		"ips": 30443,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 311,
+		"ips": 312,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11917,
+		"ips": 11796,
 		"common": 2
 	},
 	{
@@ -46,6 +46,18 @@
 		"category": "reputation",
 		"ips": 17340,
 		"common": 165
+	},
+	{
+		"name": "dataplane_dnsrd",
+		"category": "attacks",
+		"ips": 201,
+		"common": 1
+	},
+	{
+		"name": "dataplane_dnsversion",
+		"category": "attacks",
+		"ips": 92,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -104,7 +116,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38560,
+		"ips": 38421,
 		"common": 4
 	},
 	{
