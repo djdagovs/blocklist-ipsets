@@ -74,8 +74,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30031,
-		"common": 331
+		"ips": 30080,
+		"common": 332
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -84,15 +84,21 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 535,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2222,
+		"ips": 2225,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16939,
+		"ips": 16966,
 		"common": 2
 	},
 	{
@@ -104,7 +110,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11454,
+		"ips": 11473,
 		"common": 321
 	},
 	{
@@ -278,7 +284,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 327561,
+		"ips": 327562,
 		"common": 5
 	},
 	{
@@ -380,8 +386,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38260,
-		"common": 336
+		"ips": 38308,
+		"common": 337
 	},
 	{
 		"name": "firehol_level3",
@@ -644,8 +650,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2500,
-		"common": 23
+		"ips": 2514,
+		"common": 24
 	},
 	{
 		"name": "php_commenters",
