@@ -8,7 +8,7 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 78114,
+		"ips": 78126,
 		"common": 1
 	},
 	{
@@ -38,19 +38,25 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 236922,
+		"ips": 236938,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654324433,
+		"ips": 654324430,
+		"common": 42
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 134318,
 		"common": 42
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588441,
+		"ips": 9588478,
 		"common": 1
 	},
 	{
@@ -130,6 +136,12 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 1
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2784,
+		"common": 42
 	},
 	{
 		"name": "stopforumspam",
