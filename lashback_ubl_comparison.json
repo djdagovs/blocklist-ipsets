@@ -98,13 +98,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29814,
-		"common": 3102
+		"ips": 29613,
+		"common": 3068
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8885,
+		"ips": 8884,
 		"common": 1
 	},
 	{
@@ -116,37 +116,37 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 445,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 543,
+		"ips": 538,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2206,
-		"common": 142
+		"ips": 2189,
+		"common": 140
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16939,
-		"common": 3008
+		"ips": 16858,
+		"common": 2974
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 312,
+		"ips": 311,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 11196,
+		"ips": 11082,
 		"common": 80
 	},
 	{
@@ -656,8 +656,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37791,
-		"common": 3146
+		"ips": 37592,
+		"common": 3112
 	},
 	{
 		"name": "firehol_level3",
@@ -680,8 +680,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 28151,
-		"common": 387
+		"ips": 25375,
+		"common": 384
 	},
 	{
 		"name": "firehol_webserver",
@@ -1292,13 +1292,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5073,
+		"ips": 5072,
 		"common": 30
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 169,
+		"ips": 171,
 		"common": 1
 	},
 	{
@@ -1468,12 +1468,6 @@
 		"category": "reputation",
 		"ips": 765184,
 		"common": 25
-	},
-	{
-		"name": "sslbl_aggressive",
-		"category": "malware",
-		"ips": 2784,
-		"common": 3
 	},
 	{
 		"name": "sslproxies",
