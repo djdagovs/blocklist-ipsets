@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 277,
+		"ips": 280,
 		"common": 13
 	},
 	{
@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29214,
+		"ips": 29142,
 		"common": 68
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8983,
+		"ips": 8978,
 		"common": 27
 	},
 	{
@@ -86,25 +86,25 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2221,
+		"ips": 2226,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16652,
+		"ips": 16626,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 194,
+		"ips": 174,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 10939,
+		"ips": 10919,
 		"common": 27
 	},
 	{
@@ -291,24 +291,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 49
+		"common": 9
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 5888,
-		"common": 49
+		"ips": 6912,
+		"common": 51
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 29952,
-		"common": 61
+		"ips": 29696,
+		"common": 57
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 15360,
+		"ips": 15616,
 		"common": 55
 	},
 	{
@@ -356,37 +356,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38862,
+		"ips": 38869,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 654302140,
-		"common": 50
+		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36153,
-		"common": 141
+		"ips": 37090,
+		"common": 142
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134809,
-		"common": 250
+		"ips": 134559,
+		"common": 249
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9598302,
+		"ips": 9598427,
 		"common": 6
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25594,
+		"ips": 25601,
 		"common": 1
 	},
 	{
@@ -410,8 +410,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1401,
-		"common": 50
+		"ips": 1396,
+		"common": 49
 	},
 	{
 		"name": "haley_ssh",
@@ -537,6 +537,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 21525,
 		"common": 1
 	},
 	{
