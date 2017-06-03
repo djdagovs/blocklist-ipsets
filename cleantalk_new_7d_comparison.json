@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21228,
+		"ips": 21306,
 		"common": 72
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 866,
+		"ips": 867,
 		"common": 2
 	},
 	{
@@ -356,13 +356,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35040,
+		"ips": 35030,
 		"common": 2599
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 238801,
+		"ips": 238812,
 		"common": 5391
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738662,
+		"ips": 34738247,
 		"common": 617
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 28131,
+		"ips": 27651,
 		"common": 3
 	},
 	{
@@ -690,16 +690,28 @@
 		"common": 19
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 98,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
 		"ips": 1100,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 298,
-		"common": 7
+		"ips": 336,
+		"common": 8
 	},
 	{
 		"name": "php_spammers_30d",
