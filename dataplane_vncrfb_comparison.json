@@ -92,31 +92,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29142,
-		"common": 8
+		"ips": 29115,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8978,
-		"common": 4
+		"ips": 8974,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2226,
+		"ips": 2223,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16626,
+		"ips": 16616,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 10919,
+		"ips": 10915,
 		"common": 2
 	},
 	{
@@ -284,31 +284,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38878,
+		"ips": 38888,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654302140,
+		"ips": 654302138,
 		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37090,
-		"common": 61
+		"ips": 37064,
+		"common": 60
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134559,
+		"ips": 134562,
 		"common": 84
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9598649,
+		"ips": 9598796,
 		"common": 3
 	},
 	{
@@ -600,6 +600,12 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 233,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 103,
@@ -632,7 +638,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 27396,
+		"ips": 27413,
 		"common": 26
 	}
 ]
