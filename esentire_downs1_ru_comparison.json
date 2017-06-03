@@ -14,13 +14,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24466,
+		"ips": 24467,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12209,
+		"ips": 12208,
 		"common": 1
 	},
 	{
@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8865,
+		"ips": 8869,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16714,
+		"ips": 16690,
 		"common": 1
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38292,
+		"ips": 38293,
 		"common": 2
 	},
 	{
@@ -326,14 +326,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9593599,
+		"ips": 9593647,
 		"common": 3
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25118,
+		"ips": 25119,
 		"common": 1
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 28201,
+		"common": 111
 	},
 	{
 		"name": "firehol_webserver",
@@ -620,7 +626,7 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 290105,
+		"ips": 290134,
 		"common": 13
 	},
 	{
@@ -638,8 +644,8 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 540197,
-		"common": 26
+		"ips": 539991,
+		"common": 25
 	},
 	{
 		"name": "stopforumspam_7d",
