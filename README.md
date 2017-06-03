@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Sat Jun  3 21:35:28 UTC 2017.
+The following list was automatically generated on Sat Jun  3 21:36:39 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1373,7 +1373,7 @@ sorbs_block|[Sorbs.net](https://www.sorbs.net/) List of hosts demanding that the
 [vxvault](http://iplists.firehol.org/?ipset=vxvault)|[VxVault](http://vxvault.net) The latest 100 additions of VxVault.|ipv4 hash:ip|86 unique IPs|updated every 12 hours  from [this link](http://vxvault.net/ViriList.php?s=0&m=100)
 [xforce_bccs](http://iplists.firehol.org/?ipset=xforce_bccs)|[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) Botnet Command and Control Servers|ipv4 hash:ip|309 unique IPs|updated every 1 day  from [this link](https://api.xforce.ibmcloud.com/taxii)
 [xroxy](http://iplists.firehol.org/?ipset=xroxy)|[xroxy.com](http://www.xroxy.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|58 unique IPs|updated every 1 hour  from [this link](http://www.xroxy.com/proxyrss.xml)
-[xroxy_1d](http://iplists.firehol.org/?ipset=xroxy_1d)|[xroxy.com](http://www.xroxy.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|137 unique IPs|updated every 1 hour  from [this link](http://www.xroxy.com/proxyrss.xml)
+[xroxy_1d](http://iplists.firehol.org/?ipset=xroxy_1d)|[xroxy.com](http://www.xroxy.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|136 unique IPs|updated every 1 hour  from [this link](http://www.xroxy.com/proxyrss.xml)
 [xroxy_30d](http://iplists.firehol.org/?ipset=xroxy_30d)|[xroxy.com](http://www.xroxy.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|381 unique IPs|updated every 1 hour  from [this link](http://www.xroxy.com/proxyrss.xml)
 [xroxy_7d](http://iplists.firehol.org/?ipset=xroxy_7d)|[xroxy.com](http://www.xroxy.com) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|217 unique IPs|updated every 1 hour  from [this link](http://www.xroxy.com/proxyrss.xml)
 [yoyo_adservers](http://iplists.firehol.org/?ipset=yoyo_adservers)|[Yoyo.org](http://pgl.yoyo.org/adservers/) IPs of ad servers|ipv4 hash:ip|12495 unique IPs|updated every 12 hours  from [this link](http://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext)
