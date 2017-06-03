@@ -18,12 +18,6 @@
 		"common": 7
 	},
 	{
-		"name": "bi_any_2_1d",
-		"category": "attacks",
-		"ips": 353,
-		"common": 1
-	},
-	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 4614,
@@ -86,19 +80,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29333,
+		"ips": 29227,
 		"common": 37
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8872,
+		"ips": 8865,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 444,
+		"ips": 438,
 		"common": 1
 	},
 	{
@@ -110,25 +104,25 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2213,
+		"ips": 2199,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16732,
+		"ips": 16714,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 10980,
+		"ips": 10907,
 		"common": 12
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15924,
+		"ips": 16063,
 		"common": 4
 	},
 	{
@@ -494,19 +488,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37202,
+		"ips": 37097,
 		"common": 37
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134201,
+		"ips": 134083,
 		"common": 48
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9593337,
+		"ips": 9593476,
 		"common": 118
 	},
 	{
@@ -524,7 +518,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34738777,
+		"ips": 34738662,
 		"common": 20
 	},
 	{
@@ -650,14 +644,14 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3252,
+		"ips": 3135,
 		"common": 3
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 22388,
-		"common": 22
+		"ips": 22534,
+		"common": 21
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -842,7 +836,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2715,
+		"ips": 2710,
 		"common": 1
 	},
 	{
@@ -854,7 +848,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 6203,
+		"ips": 6201,
 		"common": 24
 	},
 	{
@@ -1006,6 +1000,18 @@
 		"category": "reputation",
 		"ips": 46271,
 		"common": 26
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 307,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 162,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
