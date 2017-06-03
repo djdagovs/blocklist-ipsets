@@ -62,8 +62,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 117,
-		"common": 12
+		"ips": 119,
+		"common": 13
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -122,8 +122,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13166,
-		"common": 46
+		"ips": 13314,
+		"common": 45
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -168,12 +168,6 @@
 		"common": 13
 	},
 	{
-		"name": "bm_tor",
-		"category": "anonymizers",
-		"ips": 6867,
-		"common": 1
-	},
-	{
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
@@ -198,45 +192,57 @@
 		"common": 857
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2827,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 25671,
+		"ips": 25507,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 78692,
+		"ips": 78691,
 		"common": 29
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 52946,
+		"ips": 52898,
 		"common": 25
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20020,
+		"ips": 20018,
 		"common": 2
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 29688,
+		"ips": 29385,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 88921,
+		"ips": 88920,
 		"common": 35
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 67043,
+		"ips": 66973,
 		"common": 31
 	},
 	{
@@ -446,20 +452,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 32849,
+		"ips": 32628,
 		"common": 11
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 237605,
+		"ips": 237608,
 		"common": 39
-	},
-	{
-		"name": "firehol_anonymous",
-		"category": "anonymizers",
-		"ips": 38208,
-		"common": 1
 	},
 	{
 		"name": "firehol_level1",
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590566,
-		"common": 945
+		"ips": 9590713,
+		"common": 944
 	},
 	{
 		"name": "firehol_webclient",
@@ -776,7 +776,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25099,
+		"ips": 25271,
 		"common": 1
 	},
 	{
