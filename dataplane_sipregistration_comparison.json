@@ -20,13 +20,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29444,
+		"ips": 29250,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8877,
+		"ips": 8883,
 		"common": 2
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 16908,
+		"ips": 16940,
 		"common": 7
 	},
 	{
@@ -60,10 +60,28 @@
 		"common": 3
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 6912,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 29952,
-		"common": 2
+		"ips": 30208,
+		"common": 3
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 16128,
+		"common": 1
 	},
 	{
 		"name": "dshield_top_1000",
@@ -78,16 +96,22 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 654324412,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37445,
+		"ips": 37499,
 		"common": 11
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133872,
-		"common": 10
+		"ips": 134159,
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
@@ -104,8 +128,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1829,
-		"common": 5
+		"ips": 1821,
+		"common": 4
 	},
 	{
 		"name": "iblocklist_bogons",
