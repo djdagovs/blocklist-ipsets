@@ -2,8 +2,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 336,
-		"common": 10
+		"ips": 339,
+		"common": 14
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -15,48 +15,54 @@
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601692360,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 654324412,
-		"common": 10
+		"ips": 654324414,
+		"common": 14
 	},
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
 		"ips": 628955720,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601705672,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_fornonlancomputers",
 		"category": "reputation",
 		"ips": 302055424,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_iana_reserved",
 		"category": "unroutable",
 		"ips": 536870912,
-		"common": 8
+		"common": 9
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 1
 	}
 ]
