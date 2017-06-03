@@ -134,7 +134,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33300,
+		"ips": 33365,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 237927,
 		"common": 1
 	},
 	{
@@ -298,6 +304,12 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 10
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 156170,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_180d",
