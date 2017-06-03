@@ -62,13 +62,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8886,
+		"ips": 8883,
 		"common": 2
 	},
 	{
-		"name": "blocklist_de_ssh",
+		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 11126,
+		"ips": 2191,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16889,
 		"common": 1
 	},
 	{
@@ -116,7 +122,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 18692,
+		"ips": 18599,
 		"common": 1
 	},
 	{
@@ -194,13 +200,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37672,
+		"ips": 37676,
 		"common": 8
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134318,
+		"ips": 134322,
 		"common": 25
 	},
 	{
@@ -332,7 +338,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 20836,
+		"ips": 20835,
 		"common": 1
 	},
 	{
