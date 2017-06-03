@@ -6,6 +6,12 @@
 		"common": 15
 	},
 	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5268568,
+		"common": 1
+	},
+	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5928,
@@ -44,8 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29039,
-		"common": 85
+		"ips": 29133,
+		"common": 86
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 162,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -147,7 +159,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 29952,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_top_1000",
@@ -200,19 +212,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36986,
-		"common": 85
+		"ips": 37080,
+		"common": 86
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 134932,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9600131,
+		"ips": 9600016,
 		"common": 6
 	},
 	{
@@ -231,7 +243,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1404,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "haley_ssh",
@@ -273,7 +285,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -394,6 +406,12 @@
 		"category": "reputation",
 		"ips": 46271,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 350,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
