@@ -8,8 +8,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 101,
-		"common": 2
+		"ips": 88,
+		"common": 1
 	},
 	{
 		"name": "bambenek_c2",
@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 107,
+		"ips": 106,
 		"common": 1
 	},
 	{
@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21850,
+		"ips": 21993,
 		"common": 2
 	},
 	{
@@ -90,40 +90,52 @@
 		"common": 23
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2605,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 25594,
-		"common": 2
+		"ips": 25621,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 79995,
-		"common": 2
+		"ips": 80006,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 53485,
-		"common": 2
+		"ips": 53501,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 29443,
-		"common": 2
+		"ips": 29492,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 91040,
-		"common": 2
+		"ips": 91083,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 67779,
-		"common": 2
+		"ips": 67795,
+		"common": 3
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -152,14 +164,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33489,
-		"common": 2
+		"ips": 33523,
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 238223,
-		"common": 2
+		"ips": 238241,
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
@@ -170,13 +182,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134562,
+		"ips": 134563,
 		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9599277,
+		"ips": 9599422,
 		"common": 32
 	},
 	{
