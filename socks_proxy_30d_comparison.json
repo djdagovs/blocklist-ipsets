@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29219,
-		"common": 802
+		"ips": 29134,
+		"common": 800
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -62,19 +62,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2193,
+		"ips": 2194,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16646,
-		"common": 799
+		"ips": 16619,
+		"common": 797
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 10927,
+		"ips": 10880,
 		"common": 1
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 17968,
+		"ips": 18090,
 		"common": 9
 	},
 	{
@@ -303,7 +303,7 @@
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 125495,
-		"common": 1249
+		"common": 1251
 	},
 	{
 		"name": "dshield",
@@ -362,8 +362,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38409,
-		"common": 11179
+		"ips": 38461,
+		"common": 11230
 	},
 	{
 		"name": "firehol_level1",
@@ -386,14 +386,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9595419,
+		"ips": 9595540,
 		"common": 360
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25233,
-		"common": 11202
+		"ips": 25285,
+		"common": 11253
 	},
 	{
 		"name": "firehol_webclient",
@@ -914,14 +914,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2709,
-		"common": 2709
+		"ips": 2746,
+		"common": 2746
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 6263,
-		"common": 6263
+		"ips": 6304,
+		"common": 6304
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -966,15 +966,21 @@
 		"common": 1
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 504,
+		"ips": 508,
 		"common": 8
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3127,
+		"ips": 3128,
 		"common": 100
 	},
 	{
@@ -1064,7 +1070,7 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 60,
+		"ips": 59,
 		"common": 7
 	},
 	{
