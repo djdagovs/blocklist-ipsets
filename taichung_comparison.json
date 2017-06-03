@@ -74,7 +74,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 352,
+		"ips": 351,
 		"common": 9
 	},
 	{
@@ -116,25 +116,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5938,
+		"ips": 5924,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7311,
+		"ips": 7315,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 24450,
+		"ips": 24456,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12216,
+		"ips": 12212,
 		"common": 1
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14789,
+		"ips": 15010,
 		"common": 32
 	},
 	{
@@ -234,21 +234,27 @@
 		"common": 37
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 52,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 958,
+		"ips": 947,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15290,
+		"ips": 15296,
 		"common": 8
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4686,
+		"ips": 4681,
 		"common": 4
 	},
 	{
@@ -290,67 +296,67 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2794,
+		"ips": 2791,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 25592,
+		"ips": 25472,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 78974,
+		"ips": 79027,
 		"common": 24
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 52995,
+		"ips": 53014,
 		"common": 14
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 815,
+		"ips": 812,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1644,
+		"ips": 1645,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20026,
+		"ips": 20031,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5238,
+		"ips": 5248,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 29360,
+		"ips": 29170,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 89463,
+		"ips": 89528,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 67203,
+		"ips": 67216,
 		"common": 15
 	},
 	{
@@ -374,7 +380,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 203,
+		"ips": 202,
 		"common": 7
 	},
 	{
@@ -542,13 +548,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 32820,
+		"ips": 32767,
 		"common": 13
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 237888,
+		"ips": 237945,
 		"common": 60
 	},
 	{
@@ -578,7 +584,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9592192,
+		"ips": 9592418,
 		"common": 231
 	},
 	{
@@ -620,7 +626,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1815,
+		"ips": 1816,
 		"common": 24
 	},
 	{
@@ -704,7 +710,7 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601705672,
+		"ips": 601692360,
 		"common": 49
 	},
 	{
@@ -908,7 +914,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26089,
+		"ips": 25895,
 		"common": 3
 	},
 	{
@@ -1032,15 +1038,9 @@
 		"common": 42
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2682,
+		"ips": 2672,
 		"common": 6
 	},
 	{
@@ -1052,7 +1052,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 6128,
+		"ips": 6129,
 		"common": 20
 	},
 	{
@@ -1130,7 +1130,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5221,
+		"ips": 5345,
 		"common": 2
 	},
 	{
@@ -1220,7 +1220,7 @@
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 95,
+		"ips": 97,
 		"common": 1
 	},
 	{
