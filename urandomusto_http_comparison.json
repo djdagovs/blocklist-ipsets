@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 351,
+		"ips": 352,
 		"common": 2
 	},
 	{
@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 1272,
+		"ips": 1266,
 		"common": 3
 	},
 	{
@@ -62,43 +62,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29656,
+		"ips": 29450,
 		"common": 77
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8882,
+		"ips": 8875,
 		"common": 65
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 232,
+		"ips": 228,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 442,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 532,
+		"ips": 528,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2189,
+		"ips": 2172,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16843,
+		"ips": 16730,
 		"common": 53
 	},
 	{
@@ -110,25 +110,25 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13314,
+		"ips": 13670,
 		"common": 13
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 971,
+		"ips": 969,
 		"common": 1
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15300,
+		"ips": 15296,
 		"common": 9
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4691,
+		"ips": 4679,
 		"common": 3
 	},
 	{
@@ -144,27 +144,33 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2701,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 25507,
+		"ips": 25702,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 78691,
+		"ips": 78787,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 52898,
+		"ips": 52960,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20018,
+		"ips": 20016,
 		"common": 2
 	},
 	{
@@ -174,21 +180,27 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 29385,
+		"ips": 29727,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 88920,
+		"ips": 89152,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 66973,
+		"ips": 67147,
 		"common": 19
 	},
 	{
@@ -218,7 +230,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 20996,
+		"ips": 20997,
 		"common": 4
 	},
 	{
@@ -242,7 +254,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 311467,
+		"ips": 311463,
 		"common": 1
 	},
 	{
@@ -278,7 +290,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 16128,
+		"ips": 15872,
 		"common": 17
 	},
 	{
@@ -302,19 +314,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 32628,
+		"ips": 32867,
 		"common": 10
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 237608,
+		"ips": 237699,
 		"common": 25
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38158,
+		"ips": 38160,
 		"common": 2
 	},
 	{
@@ -326,7 +338,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37651,
+		"ips": 37447,
 		"common": 94
 	},
 	{
@@ -338,13 +350,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590713,
+		"ips": 9591068,
 		"common": 25
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25019,
+		"ips": 25022,
 		"common": 2
 	},
 	{
@@ -368,7 +380,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1828,
+		"ips": 1831,
 		"common": 10
 	},
 	{
@@ -452,7 +464,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25271,
+		"ips": 25361,
 		"common": 3
 	},
 	{
@@ -464,20 +476,20 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3507,
-		"common": 21
+		"ips": 3456,
+		"common": 23
 	},
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 132,
+		"ips": 130,
 		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2500,
-		"common": 19
+		"ips": 2454,
+		"common": 20
 	},
 	{
 		"name": "php_commenters_30d",
