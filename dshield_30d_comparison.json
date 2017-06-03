@@ -230,7 +230,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6962,
+		"ips": 6947,
 		"common": 14
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38943,
+		"ips": 38904,
 		"common": 20
 	},
 	{
@@ -590,7 +590,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25710,
+		"ips": 25729,
 		"common": 7
 	},
 	{
@@ -1028,13 +1028,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11884,
+		"ips": 11901,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 6591,
+		"ips": 6614,
 		"common": 1
 	},
 	{
@@ -1190,8 +1190,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 332,
-		"common": 14
+		"ips": 352,
+		"common": 15
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 345,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_ntp",

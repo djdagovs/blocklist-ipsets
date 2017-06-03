@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38943,
+		"ips": 38904,
 		"common": 4
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25710,
+		"ips": 25729,
 		"common": 4
 	},
 	{
@@ -1154,8 +1154,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 332,
-		"common": 134
+		"ips": 352,
+		"common": 136
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 345,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
